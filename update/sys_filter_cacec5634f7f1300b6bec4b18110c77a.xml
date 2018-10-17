@@ -15,11 +15,11 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cacec5634f7f1300b6bec4b18110c77a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
+        <sys_name>uvcore</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_filter_cacec5634f7f1300b6bec4b18110c77a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-08-14 11:03:24</sys_updated_on>
         <table>sys_script_include</table>

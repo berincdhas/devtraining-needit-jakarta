@@ -42,7 +42,7 @@
         <element label="disk7SizeGB" max_length="40" name="disk7sizegb" type="string"/>
         <element label="disk7StorageTier" max_length="40" name="disk7storagetier" type="string"/>
         <element label="disk8SizeGB" max_length="40" name="disk8sizegb" type="string"/>
-        <element label="Disk8StorageTier" max_length="40" name="disk8storagetier" type="string"/>
+        <element label="disk8StorageTier" max_length="40" name="disk8storagetier" type="string"/>
         <element label="disk9SizeGB" max_length="40" name="disk9sizegb" type="string"/>
         <element display="true" label="disk9StorageTier" max_length="40" name="disk9storagetier" type="string"/>
         <element label="diskCount" max_length="40" name="diskcount" type="string"/>
@@ -94,7 +94,7 @@
         <element label="OutageWindow" max_length="40" name="outagewindow" type="string"/>
         <element label="powerState" max_length="40" name="powerstate" type="string"/>
         <element label="primaryDNS" max_length="40" name="primarydns" type="string"/>
-        <element label="PrivilagedUser" max_length="100" name="privilageduser" type="string"/>
+        <element label="PrivilegedUser" max_length="100" name="privilageduser" type="string"/>
         <element label="Reference" max_length="40" name="reference" type="string"/>
         <element label="secondaryDC" max_length="40" name="secondarydc" type="string"/>
         <element label="secondaryDNS" max_length="40" name="secondarydns" type="string"/>

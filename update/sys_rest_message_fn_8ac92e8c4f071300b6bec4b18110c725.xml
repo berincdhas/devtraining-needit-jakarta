@@ -18,6 +18,10 @@
 		"SRAEnvironment": "${SRAEnvironment}",&#13;
 		"portalOOType": "servicenow", &#13;
 		"HardwarePreset": "${HardwarePreset}", &#13;
+                "MemoryGB" : "${CustomProperty2}",&#13;
+                "CPUcount" :   "${CustomProperty1}",&#13;
+                "disk0SizeGB": "${disk0SizeGB}",&#13;
+&#13;
 		"isVirtual": "${isVirtual}",&#13;
 		&#13;
 		"disk1SizeGB": "${disk1SizeGB}",&#13;
@@ -61,7 +65,7 @@
 		"vmNsxSecTag4":"${vmNsxSecTag4}",&#13;
 		"associatedLB":"${associatedLB}",&#13;
 &#13;
-		"PrivilagedUser":"${PrivilagedUsers}",&#13;
+		"PrivilagedUser":"${PrivilegedUsers}",&#13;
 		"CISupportTier":"${CISupportTier}",&#13;
 		"CIImpact":"${CIImpact}",&#13;
 		"EnableSRM":"${EnableSRM}",&#13;
@@ -93,16 +97,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-27 13:56:26</sys_created_on>
         <sys_id>8ac92e8c4f071300b6bec4b18110c725</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>uvCore POST Run Modify</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_rest_message_fn_8ac92e8c4f071300b6bec4b18110c725</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-24 11:27:28</sys_updated_on>
+        <sys_updated_on>2018-10-17 03:17:03</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="ATMECS_mid_2">d2f4ea0c4f071300b6bec4b18110c76d</use_mid_server>
+        <use_mid_server display_value="">d2f4ea0c4f071300b6bec4b18110c76d</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>
