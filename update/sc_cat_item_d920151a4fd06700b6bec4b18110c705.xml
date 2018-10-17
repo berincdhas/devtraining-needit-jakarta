@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
         <active>true</active>
         <availability>on_both</availability>
@@ -13,6 +12,7 @@
         <description><![CDATA[<p>Catalog Item for Deploy and manage Load Balancer</p>]]></description>
         <entitlement_script/>
         <group/>
+        <hide_sp>false</hide_sp>
         <icon/>
         <ignore_price>false</ignore_price>
         <image/>

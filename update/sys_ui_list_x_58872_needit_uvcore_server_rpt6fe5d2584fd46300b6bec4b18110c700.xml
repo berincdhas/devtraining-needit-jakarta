@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_uvcore_server" version="2" view="RPT6fe5d2584fd46300b6bec4b18110c700">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>

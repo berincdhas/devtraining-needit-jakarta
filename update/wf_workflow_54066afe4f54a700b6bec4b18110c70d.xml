@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="wf_workflow_version">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
         <activity_stages>{"activities":{"9445c948db112300bfd2ab7dca9619c1":"9045c948db112300bfd2ab7dca9619aa","ac450d48db112300bfd2ab7dca961907":"5c45c948db112300bfd2ab7dca9619aa","a845c948db112300bfd2ab7dca9619f2":"d845c948db112300bfd2ab7dca9619aa","e045c948db112300bfd2ab7dca9619ee":"9045c948db112300bfd2ab7dca9619aa","e045c948db112300bfd2ab7dca9619f4":"9045c948db112300bfd2ab7dca9619aa","e045c948db112300bfd2ab7dca9619cb":"d845c948db112300bfd2ab7dca9619aa","e045c948db112300bfd2ab7dca9619ea":"d845c948db112300bfd2ab7dca9619aa"},"subflows":[],"stages":{"9045c948db112300bfd2ab7dca9619aa":{"order":100,"duration":"1 Day","stageId":"9045c948db112300bfd2ab7dca9619aa","name":"Waiting for Approval","value":"waiting_for_approval"},"d845c948db112300bfd2ab7dca9619aa":{"order":90,"duration":"","stageId":"d845c948db112300bfd2ab7dca9619aa","name":"Request Approved","value":"request_approved"},"5c45c948db112300bfd2ab7dca9619aa":{"order":120,"duration":"1 Day","stageId":"5c45c948db112300bfd2ab7dca9619aa","name":"Fulfillment","value":"fulfillment"}},"ends":["a445c948db112300bfd2ab7dca9619e9"]}</activity_stages>

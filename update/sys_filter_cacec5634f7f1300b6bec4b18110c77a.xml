@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_filter">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
     <sys_filter action="INSERT_OR_UPDATE">
         <filter table="sys_script_include">GOTOname&gt;=getuvcore^EQ<item endquery="false" field="name" goto="true" newquery="false" operator="&gt;=" or="false" value="getuvcore"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
@@ -26,4 +25,5 @@
         <title>uvcore</title>
         <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
     </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=cacec5634f7f1300b6bec4b18110c77a"/>
 </record_update>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="wf_workflow_version">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
         <activity_stages>{"activities":{"edaf9fe54fb4a700b6bec4b18110c77d":"59af5b654fb4a700b6bec4b18110c7b5","adaf9fe54fb4a700b6bec4b18110c788":"59af5b654fb4a700b6bec4b18110c7b5","29af9fe54fb4a700b6bec4b18110c78f":"59af5b654fb4a700b6bec4b18110c7b5","2daf9fe54fb4a700b6bec4b18110c77c":"55af5b654fb4a700b6bec4b18110c7b5"},"ends":["2daf9fe54fb4a700b6bec4b18110c77e"],"subflows":[],"stages":{"55af5b654fb4a700b6bec4b18110c7b5":{"order":90,"duration":"","stageId":"55af5b654fb4a700b6bec4b18110c7b5","name":"Request Approved","value":"request_approved"},"59af5b654fb4a700b6bec4b18110c7b5":{"order":100,"duration":"1 Day","stageId":"59af5b654fb4a700b6bec4b18110c7b5","name":"Waiting for Approval","value":"waiting_for_approval"}}}</activity_stages>

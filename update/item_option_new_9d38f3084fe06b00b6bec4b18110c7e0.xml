@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="item_option_new">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
@@ -85,32 +84,6 @@
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=9d38f3084fe06b00b6bec4b18110c7e0"/>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>9d38f3084fe06b00b6bec4b18110c7e0</documentkey>
-        <fieldname>help_text</fieldname>
-        <language>nl</language>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-10 09:11:59</sys_created_on>
-        <sys_id>1d38f3084fe06b00b6bec4b18110c7f1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-10 09:11:59</sys_updated_on>
-        <tablename>item_option_new</tablename>
-        <value/>
-    </sys_translated_text>
-    <sys_translated_text action="INSERT_OR_UPDATE">
-        <documentkey>9d38f3084fe06b00b6bec4b18110c7e0</documentkey>
-        <fieldname>instructions</fieldname>
-        <language>nl</language>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-10 09:11:58</sys_created_on>
-        <sys_id>9138f3084fe06b00b6bec4b18110c7e2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-10 09:11:58</sys_updated_on>
-        <tablename>item_option_new</tablename>
-        <value/>
-    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=9d38f3084fe06b00b6bec4b18110c7e0"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>

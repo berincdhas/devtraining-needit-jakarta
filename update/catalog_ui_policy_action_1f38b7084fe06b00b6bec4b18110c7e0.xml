@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="Backup MSO LB v2.0">91283f804fe06b00b6bec4b18110c745</catalog_item>
         <catalog_variable>IO:9d38f3084fe06b00b6bec4b18110c7e0</catalog_variable>
+        <cleared>false</cleared>
         <disabled>true</disabled>
         <field/>
         <mandatory>false</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-10 09:12:07</sys_created_on>
