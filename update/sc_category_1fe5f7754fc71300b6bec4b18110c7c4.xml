@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
     <sc_category action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Provisioning of new MSO Server</description>
@@ -35,7 +36,6 @@
     <sys_translated_text action="delete_multiple" query="documentkey=1fe5f7754fc71300b6bec4b18110c7c4"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#fefefe</average_image_color>
-        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
         <file_name>homepage_image</file_name>
@@ -43,7 +43,6 @@
         <image_width>75</image_width>
         <size_bytes>2759</size_bytes>
         <size_compressed>2626</size_compressed>
-        <state/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-11 09:39:50</sys_created_on>
         <sys_id>0f28cd6c4fac6b00b6bec4b18110c751</sys_id>
@@ -73,7 +72,6 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#fdfdfd</average_image_color>
-        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
         <file_name>icon</file_name>
@@ -81,7 +79,6 @@
         <image_width>80</image_width>
         <size_bytes>3108</size_bytes>
         <size_compressed>2969</size_compressed>
-        <state/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-11 09:27:52</sys_created_on>
         <sys_id>ff658de84fac6b00b6bec4b18110c74b</sys_id>

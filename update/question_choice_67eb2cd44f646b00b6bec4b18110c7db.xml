@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>100</order>
-        <question display_value="Site ID">7bdba8d44f646b00b6bec4b18110c7a1</question>
+        <question display_value="Site">7bdba8d44f646b00b6bec4b18110c7a1</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-10 12:57:58</sys_created_on>
         <sys_id>67eb2cd44f646b00b6bec4b18110c7db</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Sydney</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Plano Site 2</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>question_choice_67eb2cd44f646b00b6bec4b18110c7db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-10 12:57:58</sys_updated_on>
-        <text>Sydney</text>
+        <sys_updated_on>2018-10-17 07:14:57</sys_updated_on>
+        <text>Plano Site 2</text>
         <value>2</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=67eb2cd44f646b00b6bec4b18110c7db"/>

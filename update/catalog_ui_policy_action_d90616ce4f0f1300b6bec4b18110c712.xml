@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="get vm info and update uvcore table">bff5da8e4f0f1300b6bec4b18110c7f8</catalog_item>
         <catalog_variable>IO:840692ce4f0f1300b6bec4b18110c75f</catalog_variable>
-        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>ignore</mandatory>
-        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-03 17:36:39</sys_created_on>

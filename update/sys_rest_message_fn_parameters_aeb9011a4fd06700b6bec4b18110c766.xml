@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_parameters">
     <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
         <name>lbVIP6AppName</name>
         <rest_message_function display_value="Modify LB">75e7c1524fd06700b6bec4b18110c7b7</rest_message_function>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="get vm info and update uvcore table">bff5da8e4f0f1300b6bec4b18110c7f8</sc_cat_item>
         <sc_category display_value="MSO Server">1fe5f7754fc71300b6bec4b18110c7c4</sc_category>

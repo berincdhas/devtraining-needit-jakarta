@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_headers">
     <sys_rest_message_headers action="INSERT_OR_UPDATE">
         <name>Content-Type</name>
         <rest_message display_value="uvCore">b40d06cc4fc31300b6bec4b18110c732</rest_message>

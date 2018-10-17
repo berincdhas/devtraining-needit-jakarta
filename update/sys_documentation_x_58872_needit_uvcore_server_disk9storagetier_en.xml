@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="disk9storagetier" label="disk9StorageTier" language="en" table="x_58872_needit_uvcore_server">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>disk9storagetier</element>

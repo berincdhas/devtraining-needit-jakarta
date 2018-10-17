@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="MSO LB v2.0">d920151a4fd06700b6bec4b18110c705</catalog_item>
         <catalog_variable>IO:cb2015da4fd06700b6bec4b18110c73b</catalog_variable>
-        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
         <mandatory>ignore</mandatory>
-        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-04 10:28:53</sys_created_on>

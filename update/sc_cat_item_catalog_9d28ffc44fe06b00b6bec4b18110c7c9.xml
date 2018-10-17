@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Backup MSO LB v2.0">91283f804fe06b00b6bec4b18110c745</sc_cat_item>
         <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
