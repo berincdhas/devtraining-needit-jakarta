@@ -5117,9 +5117,12 @@ answer = 0;</value>
         <input>{"Reference":"${current.variables.reference}","CUSTOMER":"${current.variables.customer}","subscriptionEmail":"${current.variables.subscription_email}","SRAEnvironment":"${current.variables.sra_environment}","subscriptionName":"${current.variables.subscription_name}","serviceRequestId":"${current.variables.serviceRequestId}","SubscriptionID":"${current.variables.subscriptionID}","disk1SizeGB":"${current.variables.disk1_size}","HardwarePreset":"${current.variables.u_hwpreset}","BackupType":"${current.variables.backup_type}","domainNumber":"${current.variables.domain_number}","CSRF":"","OSPatchTime":"${current.variables.OSPatchTime}","OSPatchDay":"${current.variables.OSPatchDay}","OutageTime":"${current.variables.OutageTime}","OutageDay":"${current.variables.OutageDay}","disk2SizeGB":"${current.variables.disk2_size}","disk3SizeGB":"${current.variables.disk3_size}","disk4SizeGB":"${current.variables.disk4_size}","disk5SizeGB":"${current.variables.disk5_size}","disk6SizeGB":"${current.variables.disk6_size}","disk7SizeGB":"${current.variables.disk7_size}","disk8SizeGB":"${current.variables.disk8_size}","disk9SizeGB":"${current.variables.disk9_size}","diskTotal":"${current.variables.disk_total}","NIC0Connection":"${current.variables.NIC0Connection}","NIC1Connection":"${current.variables.NIC1Connection}","NIC2Connection":"${current.variables.NIC2Connection}","NIC3Connection":"${current.variables.NIC3Connection}","NIC4Connection":"${current.variables.NIC4Connection}","NIC5Connection":"${current.variables.NIC5Connection}","NIC6Connection":"${current.variables.NIC6Connection}","NIC7Connection":"${current.variables.NIC7Connection}","NIC8Connection":"${current.variables.NIC8Connection}","NIC9Connection":"${current.variables.NIC9Connection}","EnableBackup":"${current.variables.enableBackup}","BackupPolicy":"${current.variables.backupPolicy}","BackupMethod":"${current.variables.backupMethod}","BackupWindow":"${current.variables.backupWindow}","firewallEnabled":"${current.variables.enableFirewall}","vmNsxSecTag1":"${current.variables.vmNsxSecTag1}","vmNsxSecTag2":"${current.variables.vmNsxSecTag2}","vmNsxSecTag3":"${current.variables.vmNsxSecTag3}","vmNsxSecTag4":"${current.variables.vmNsxSecTag4}","associatedLB":"${current.variables.associatedLB}","CISupportTier":"${current.variables.CISupportTier}","CIImpact":"${current.variables.CIImpact}","EnableSRM":"${current.variables.enableSRM}","BusinessInformation":"${current.variables.BusinessInformation}","BillingCode":"${current.variables.BillingCode}","CustomProperty1":"NONE","CustomProperty2":"NONE","CustomProperty3":"NONE","CustomProperty4":"NONE","CustomProperty5":"NONE","CustomProperty6":"NONE","CustomProperty7":"NONE","CustomProperty8":"NONE","CustomProperty9":"NONE","CustomProperty0":"NONE"}</input>
         <is_parent>false</is_parent>
         <name>Modify Run</name>
-        <new_activity_definition/>
-        <notes/>
-        <out_of_date>false</out_of_date>
+        <new_activity_definition display_value="uvCore_POST_Run_Modify">d97dde90db5523001dde0181ca961994</new_activity_definition>
+        <notes>There is a newer version of this activity.
+
+To update the activity, check out the workflow, select the activity, right click
+and select 'Update activity' to use the latest version, then publish the workflow</notes>
+        <out_of_date>true</out_of_date>
         <parent/>
         <pinned>false</pinned>
         <pinned_version/>
@@ -5127,9 +5130,9 @@ answer = 0;</value>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-27 09:31:16</sys_created_on>
         <sys_id>a5af9fe54fb4a700b6bec4b18110c77b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-27 09:31:16</sys_updated_on>
+        <sys_updated_on>2018-10-18 04:02:44</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
@@ -5931,7 +5934,7 @@ workflow.scratchpad.getvminfoexecutionId = responsebody.executionId;&#13;
         <input>{"subscriptionName":"${current.variables.subscriptionName}","subscriptionDiscription":"${current.variables.subscriptionDiscription}","Reference":"${current.sys_id}","SubscriptionID":"${current.number}","serviceRequestId":"${current.request.getDisplayValue()}","subscriptionEmail":"${current.variables.subscription_email}","CUSTOMER":"${current.variables.customer}","SRAEnvironment":"${current.variables.sra_environment}","HostEnvironment":"${current.variables.host_environment}","SiteID":"${current.variables.site_id}","hardwareType":"${current.variables.hardware_type}","HardwarePreset":"${current.variables.u_hwpreset}","Function":"${current.variables.function_name}","OSName":"${current.variables.os_name}","domainNumber":"${current.variables.domain_number}","isVirtual":"${current.variables.is_it_virtual_machine}","SecurityZone":"${current.variables.securityzone}","disk1SizeGB":"${current.variables.disk1_size}","disk2SizeGB":"${current.variables.disk2_size}","disk3SizeGB":"${current.variables.disk3_size}","disk4SizeGB":"${current.variables.disk4_size}","disk5SizeGB":"${current.variables.disk5_size}","disk6SizeGB":"${current.variables.disk6_size}","disk7SizeGB":"${current.variables.disk7_size}","disk8SizeGB":"${current.variables.disk8_size}","disk9SizeGB":"${current.variables.disk9_size}","diskTotal":"${current.variables.disk_total}","NIC0Connection":"${current.variables.NIC0Connection}","NIC1Connection":"${current.variables.NIC1Connection}","NIC2Connection":"${current.variables.NIC2Connection}","NIC3Connection":"${current.variables.NIC3Connection}","NIC4Connection":"${current.variables.NIC4Connection}","NIC5Connection":"${current.variables.NIC5Connection}","NIC6Connection":"${current.variables.NIC6Connection}","NIC7Connection":"${current.variables.NIC7Connection}","NIC8Connection":"${current.variables.NIC8Connection}","NIC9Connection":"${current.variables.NIC9Connection}","EnableBackup":"${current.variables.enableBackup}","BackupType":"${current.variables.backupType}","BackupPolicy":"${current.variables.backupPolicy}","BackupMethod":"${current.variables.backupMethod}","BackupWindow":"${current.variables.backupWindow}","OutageDay":"${current.variables.OutageDay}","OutageTime":"${current.variables.OutageTime}","OSPatchTime":"${current.variables.OSPatchTime}","OSPatchDay":"${current.variables.OSPatchDay}","Tags":"${current.variables.Tags}","firewallEnabled":"${current.variables.enableFirewall}","vmNsxSecTag1":"${current.variables.vmNsxSecTag1}","vmNsxSecTag2":"${current.variables.vmNsxSecTag2}","vmNsxSecTag3":"${current.variables.vmNsxSecTag3}","vmNsxSecTag4":"${current.variables.vmNsxSecTag4}","associatedLB":"${current.variables.associatedLB}","PrivilagedUsers":"${current.variables.PrivilagedUsers}","CISupportTier":"${current.variables.CISupportTier}","CIImpact":"${current.variables.CIImpact}","EnableSRM":"${current.variables.enableSRM}","OnDemandBackup":"None","BusinessInformation":"${current.variables.BusinessInformation}","BillingCode":"${current.variables.BillingCode}","CustomProperty1":"NONE","CustomProperty2":"NONE","CustomProperty3":"NONE","CustomProperty4":"NONE","CustomProperty5":"NONE","CustomProperty6":"NONE","CustomProperty7":"NONE","CustomProperty8":"NONE","CustomProperty9":"NONE","CustomProperty0":"NONE"}</input>
         <is_parent>false</is_parent>
         <name>Run Deploy</name>
-        <new_activity_definition display_value="uvCore_POST_Run_Deploy">90618984db112300bfd2ab7dca961920</new_activity_definition>
+        <new_activity_definition display_value="uvCore_POST_Run_Deploy">7eeb5290db5523001dde0181ca961976</new_activity_definition>
         <notes>There is a newer version of this activity.
 
 To update the activity, check out the workflow, select the activity, right click
@@ -5944,9 +5947,9 @@ and select 'Update activity' to use the latest version, then publish the workflo
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-27 09:31:16</sys_created_on>
         <sys_id>d9af9fe54fb4a700b6bec4b18110c76c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-17 02:42:03</sys_updated_on>
+        <sys_updated_on>2018-10-18 03:55:11</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>

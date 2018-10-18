@@ -8,7 +8,7 @@
         <content>{"uuid": "8cb178ac-f87d-4e09-90f6-08ccc4983246", &#13;
 	"inputs": { &#13;
 		"subscriptionName": "${subscriptionName}",&#13;
-		"subscriptionDiscription":"${subscriptionDiscription}",&#13;
+		"subscriptionDescription":"${subscriptionDiscription}",&#13;
 		"Reference": "${Reference}", &#13;
 		"SubscriptionID": "${SubscriptionID}", &#13;
 		"serviceRequestId": "${serviceRequestId}", &#13;
@@ -22,8 +22,8 @@
 		"hardwareType": "${hardwareType}", &#13;
 &#13;
 		"HardwarePreset": "${HardwarePreset}", &#13;
-                "MemoryGB" : "${CustomProperty2}",&#13;
-                "CPUcount" :   "${CustomProperty1}",&#13;
+                "MemoryGB" : "${MemoryGB}",&#13;
+                "CPUcount" :   "${CPUcount}",&#13;
                 "disk0SizeGB": "${disk0SizeGB}",&#13;
 &#13;
 		"Function": "${Function}", &#13;
@@ -56,7 +56,7 @@
 		"NIC8Connection":"${NIC8Connection}",&#13;
 		"NIC9Connection":"${NIC9Connection}",&#13;
 		&#13;
-		"EnableBackup":"${EnableBackup}",&#13;
+		"enableBackup":"${EnableBackup}",&#13;
 		"BackupType": "${BackupType}",&#13;
 		"BackupPolicy": "${BackupPolicy}",&#13;
 		"BackupMethod": "${BackupMethod}",&#13;
@@ -78,7 +78,7 @@
 		"PrivilegedUser":"${PrivilagedUsers}",&#13;
 		"CISupportTier":"${CISupportTier}",&#13;
 		"CIImpact":"${CIImpact}",&#13;
-		"EnableSRM":"${EnableSRM}",&#13;
+		"enableSRM":"${EnableSRM}",&#13;
 		"OnDemandBackup":"${OnDemandBackup}",&#13;
 		"BusinessInformation":"${BusinessInformation}",&#13;
 		"BillingCode":"${BillingCode}",&#13;
@@ -109,14 +109,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-27 13:54:44</sys_created_on>
         <sys_id>2089aa8c4f071300b6bec4b18110c7a1</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_name>uvCore POST Run Deploy</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_rest_message_fn_2089aa8c4f071300b6bec4b18110c7a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-17 18:32:48</sys_updated_on>
+        <sys_updated_on>2018-10-18 04:27:26</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mid_server display_value="ipctpz1001">5a4618bbdbc923001dde0181ca9619b5</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>

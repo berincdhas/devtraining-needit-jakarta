@@ -106,11 +106,14 @@
 		g_form.setDisplay('CIImpact',true);
 		g_form.setDisplay('CISupportTier',true);
 		g_form.setDisplay('enableBackup',true);
+		g_form.setValue('enableBackup', 'Yes');
 		g_form.setDisplay('enableFirewall',true);
+		g_form.setValue('enableFirewall', 'Yes');
 		g_form.setDisplay('securityzone',true);
 		g_form.setDisplay('BusinessInformation',true);
 		g_form.setDisplay('BillingCode',true);
 		g_form.setDisplay('associatedLB',true);
+		
 		if(g_form.getValue('u_hwpreset') == 'custom')
 			{
 				console.log("display ram and cpu fields g_form.getValue('u_hwpreset') : "+g_form.getValue('u_hwpreset'));
@@ -413,7 +416,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c2fb20184f646b00b6bec4b18110c76f</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Manage fields based on Phase</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -421,7 +424,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_c2fb20184f646b00b6bec4b18110c76f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-17 02:52:47</sys_updated_on>
+        <sys_updated_on>2018-10-18 02:55:25</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>
