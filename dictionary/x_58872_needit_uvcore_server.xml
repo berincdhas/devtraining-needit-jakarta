@@ -107,7 +107,8 @@
         <element label="SiteID" max_length="40" name="siteid" type="string"/>
         <element label="snapshotList" max_length="40" name="snapshotlist" type="string"/>
         <element label="SRA Environment" max_length="40" name="sra_environment" type="string"/>
-        <element label="subscriptionDiscription" max_length="100" name="subscriptiondiscription" type="string"/>
+        <element label="subscriptionDescription" max_length="100" name="subscriptiondescription" type="string"/>
+        <element active="false" label="subscriptionDiscription" max_length="100" name="subscriptiondiscription" type="string"/>
         <element label="SubscriptionID" max_length="40" name="subscriptionid" type="string"/>
         <element label="subscriptionName" max_length="40" name="subscriptionname" type="string"/>
         <element label="Subscription status" max_length="40" name="subscription_status" type="string"/>

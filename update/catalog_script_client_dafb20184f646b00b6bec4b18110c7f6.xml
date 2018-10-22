@@ -26,15 +26,16 @@
 		uvCore.addParam('sysparm_name','getFields');
 		uvCore.addParam('sysparm_user',g_form.getValue('user'));
 		uvCore.addParam('sysparm_subscriptionName',g_form.getValue('subscription_name'));
+		console.log("Query Params : sysparm_user = "+g_form.getValue('user')+" sysparm_subscriptionName = "+ g_form.getValue('subscription_name'));
 		uvCore.getXMLAnswer(updateForm);
 	}
 		
 		
 	function updateForm(response2){
-		var ans;
-		var hardware_preset;
 		console.log("In update field callback");
 		console.log("################# Response :"+response2);
+		var ans;
+		var hardware_preset;
 		ans = response2.evalJSON();
 		console.log(ans);
 		console.log(JSON.stringify(ans));
@@ -172,14 +173,14 @@
 				enablebackup.style.color = '#343D47';
 			}
 		
-		if(ans.subscriptiondiscription !='None' && ans.subscriptiondiscription !='' && ans.subscriptiondiscription != undefined)
+		if(ans.subscriptiondescription !='None' && ans.subscriptiondescription !='' && ans.subscriptiondescription != undefined)
 			{
-				g_form.setValue('subscriptionDiscription',ans.subscriptiondiscription);
-				var subscriptiondiscription = g_form.getControl('subscriptionDiscription');
-				console.log("subscriptiondiscription:" + subscriptiondiscription + ans.subscriptiondiscription.toString());
-				console.dir(ans.subscriptiondiscription);
-				subscriptiondiscription.style.backgroundColor = '#FFF';
-				subscriptiondiscription.style.color = '#343D47';
+				g_form.setValue('subscriptionDescription',ans.subscriptiondescription);
+				var subscriptiondescription = g_form.getControl('subscriptionDescription');
+				console.log("subscriptiondescription:" + subscriptiondescription + ans.subscriptiondescription.toString());
+				console.dir(ans.subscriptiondescription);
+				subscriptiondescription.style.backgroundColor = '#FFF';
+				subscriptiondescription.style.color = '#343D47';
 			}
 		
 		if(ans.privilageduser !='None' && ans.privilageduser !='')
@@ -437,7 +438,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dafb20184f646b00b6bec4b18110c7f6</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Auto populate fileds</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -445,7 +446,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_dafb20184f646b00b6bec4b18110c7f6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-03 07:14:28</sys_updated_on>
+        <sys_updated_on>2018-10-22 11:35:30</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>
