@@ -41,7 +41,7 @@
         <order>500</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>SecurityZone</question_text>
+        <question_text>Security Zone</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -60,14 +60,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-10 12:57:52</sys_created_on>
         <sys_id>82ebe8d44f646b00b6bec4b18110c7ca</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>SecurityZone</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Security Zone</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>item_option_new_82ebe8d44f646b00b6bec4b18110c7ca</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-10 12:57:52</sys_updated_on>
+        <sys_updated_on>2018-10-24 03:07:20</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
@@ -78,10 +78,10 @@
         <variable_set/>
         <variable_width/>
         <visibility>1</visibility>
-        <visible_bundle>true</visible_bundle>
-        <visible_guide>true</visible_guide>
-        <visible_standalone>true</visible_standalone>
-        <visible_summary>true</visible_summary>
+        <visible_bundle>false</visible_bundle>
+        <visible_guide>false</visible_guide>
+        <visible_standalone>false</visible_standalone>
+        <visible_summary>false</visible_summary>
         <write_roles/>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=82ebe8d44f646b00b6bec4b18110c7ca"/>
