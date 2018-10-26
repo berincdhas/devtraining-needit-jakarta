@@ -32,12 +32,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-25 09:41:53</sys_created_on>
         <sys_id>429e636edb5523001dde0181ca9619bb</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-25 12:23:27</sys_updated_on>
+        <sys_updated_on>2018-10-25 21:27:58</sys_updated_on>
         <table>sc_req_item</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="Deploy_Modify_Decomm_Action_LB_V1">54066afe4f54a700b6bec4b18110c70d</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
