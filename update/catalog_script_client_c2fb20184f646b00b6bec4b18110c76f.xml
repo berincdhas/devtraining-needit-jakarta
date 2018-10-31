@@ -27,7 +27,7 @@
 		g_form.setDisplay('sra_environment',false);
 		g_form.setDisplay('host_environment',true);
 		g_form.setDisplay('hardware_preset',true);
-		g_form.setDisplay('backup_type',true);
+		//g_form.setDisplay('backup_type',true);
 		g_form.setDisplay('disk_size',true);
 		g_form.setDisplay('disk0_size',false);
 		
@@ -99,22 +99,22 @@
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
 		g_form.setDisplay('subscriptionDescription',true);
-		g_form.setDisplay('backupType',true);
-		g_form.setDisplay('backupMethod',true);
-		g_form.setDisplay('backupPolicy',true);
-		g_form.setDisplay('backupWindow',true);
+		//g_form.setDisplay('backupType',true);
+		//g_form.setDisplay('backupMethod',true);
+		//g_form.setDisplay('backupPolicy',true);
+		//g_form.setDisplay('backupWindow',true);
 		g_form.setDisplay('CIImpact',true);
 		g_form.setDisplay('CISupportTier',true);
 		g_form.setDisplay('enableBackup',true);
-		g_form.setValue('enableBackup', 'Yes');
+		//g_form.setValue('enableBackup', 'Yes');
 		g_form.setDisplay('enableFirewall',true);
-		g_form.setValue('enableFirewall', 'Yes');
+		//g_form.setValue('enableFirewall', 'Yes');
 		g_form.setDisplay('securityzone',true);
 		g_form.setDisplay('BusinessInformation',true);
 		g_form.setDisplay('BillingCode',true);
 		g_form.setDisplay('associatedLB',true);
 		
-		if(g_form.getValue('u_hwpreset') == 'custom')
+		/*if(g_form.getValue('u_hwpreset') == 'custom')
 			{
 				console.log("display ram and cpu fields g_form.getValue('u_hwpreset') : "+g_form.getValue('u_hwpreset'));
 					g_form.setDisplay('memoryGB',true);
@@ -130,7 +130,7 @@
 					g_form.setValue('memoryGB', '#NULL#');
 					g_form.setValue('CPUCount', '#NULL#');
 					g_form.setValue('disk0_size', '#NULL#');
-			}
+			}*/
 		
 		
 		
@@ -143,7 +143,7 @@
 		g_form.setDisplay('sra_environment',false);
 		g_form.setDisplay('host_environment',false);
 		g_form.setDisplay('hardware_preset',true);
-		g_form.setDisplay('backup_type',true);
+		//g_form.setDisplay('backup_type',true);
 		g_form.setDisplay('disk0_size',false);
 		console.log("=g_form.getValue('diskTotal') :"+ g_form.getValue('disk_total'));
 		for(i=1;i<parseInt(g_form.getValue('disk_total'));i++)
@@ -214,10 +214,10 @@
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
 		g_form.setDisplay('subscriptionDescription',true);
-		g_form.setDisplay('backupType',true);
-		g_form.setDisplay('backupMethod',true);
-		g_form.setDisplay('backupPolicy',true);
-		g_form.setDisplay('backupWindow',true);
+		//g_form.setDisplay('backupType',true);
+		//g_form.setDisplay('backupMethod',true);
+		//g_form.setDisplay('backupPolicy',true);
+		//g_form.setDisplay('backupWindow',true);
 		g_form.setDisplay('CIImpact',true);
 		g_form.setDisplay('CISupportTier',true);
 		g_form.setDisplay('enableBackup',true);
@@ -226,7 +226,7 @@
 		g_form.setDisplay('BusinessInformation',true);
 		g_form.setDisplay('BillingCode',true);
 		g_form.setDisplay('associatedLB',true);
-		if(g_form.getValue('u_hwpreset') == 'custom')
+		/*if(g_form.getValue('u_hwpreset') == 'custom')
 			{
 				console.log("display ram and cpu fields g_form.getValue('u_hwpreset') : "+g_form.getValue('u_hwpreset'));
 					g_form.setDisplay('memoryGB',true);
@@ -242,7 +242,7 @@
 					g_form.setValue('memoryGB', '#NULL#');
 					g_form.setValue('CPUCount', '#NULL#');
 					g_form.setValue('disk0_size', '#NULL#');
-			}
+			}*/
 		
 	}
 	else if(newValue == 'Decommission'){
@@ -252,7 +252,7 @@
 		g_form.setMandatory('subscription_name',true);
 		g_form.setDisplay('sra_environment',false);
 		g_form.setDisplay('host_environment',false);
-		g_form.setDisplay('backup_type',false);
+		//g_form.setDisplay('backup_type',false);
 		g_form.setDisplay('disk0_size',false);
 		console.log("=g_form.getValue('diskTotal') :"+ g_form.getValue('disk_total'));
 		for(i=0;i<10;i++)
@@ -311,10 +311,10 @@
 		g_form.setDisplay('osPatchTime',false);
 		g_form.setDisplay('PrivilagedUser',false);
 		g_form.setDisplay('subscriptionDescription',true);
-		g_form.setDisplay('backupType',false);
-		g_form.setDisplay('backupMethod',false);
-		g_form.setDisplay('backupPolicy',false);
-		g_form.setDisplay('backupWindow',false);
+		//g_form.setDisplay('backupType',false);
+		//g_form.setDisplay('backupMethod',false);
+		//g_form.setDisplay('backupPolicy',false);
+		//g_form.setDisplay('backupWindow',false);
 		g_form.setDisplay('CIImpact',false);
 		g_form.setDisplay('CISupportTier',false);
 		g_form.setDisplay('enableBackup',false);
@@ -331,7 +331,7 @@
 		g_form.setMandatory('subscription_name',true);
 		g_form.setDisplay('sra_environment',false);
 		g_form.setDisplay('host_environment',false);
-		g_form.setDisplay('backup_type',false);
+		//g_form.setDisplay('backup_type',false);
 		g_form.setDisplay('disk0_size',false);
 		console.log("=g_form.getValue('diskTotal') :"+ g_form.getValue('disk_total'));
 		for(i=0;i<10;i++)
@@ -390,10 +390,10 @@
 		g_form.setDisplay('osPatchTime',false);
 		g_form.setDisplay('PrivilagedUser',false);
 		g_form.setDisplay('subscriptionDescription',false);
-		g_form.setDisplay('backupType',false);
-		g_form.setDisplay('backupMethod',false);
-		g_form.setDisplay('backupPolicy',false);
-		g_form.setDisplay('backupWindow',false);
+		//g_form.setDisplay('backupType',false);
+		//g_form.setDisplay('backupMethod',false);
+		//g_form.setDisplay('backupPolicy',false);
+		//g_form.setDisplay('backupWindow',false);
 		g_form.setDisplay('CIImpact',false);
 		g_form.setDisplay('CISupportTier',false);
 		g_form.setDisplay('enableBackup',false);
@@ -416,7 +416,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c2fb20184f646b00b6bec4b18110c76f</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Manage fields based on Phase</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -424,7 +424,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_c2fb20184f646b00b6bec4b18110c76f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-24 06:22:02</sys_updated_on>
+        <sys_updated_on>2018-10-30 09:31:19</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>
