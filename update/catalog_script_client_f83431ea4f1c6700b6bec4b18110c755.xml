@@ -8,7 +8,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="MSO LB v2.0">d920151a4fd06700b6bec4b18110c705</cat_item>
+        <cat_item display_value="MSV NSX Load Balancer v2.0">d920151a4fd06700b6bec4b18110c705</cat_item>
         <cat_variable>IO:0834b19e4f146700b6bec4b18110c746</cat_variable>
         <condition/>
         <description/>

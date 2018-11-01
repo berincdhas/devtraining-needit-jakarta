@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="MSO LB v2.0">d920151a4fd06700b6bec4b18110c705</catalog_item>
+        <catalog_item display_value="MSV NSX Load Balancer v2.0">d920151a4fd06700b6bec4b18110c705</catalog_item>
         <catalog_variable>IO:862015da4fd06700b6bec4b18110c718</catalog_variable>
         <disabled>false</disabled>
         <field/>
