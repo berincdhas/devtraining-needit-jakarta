@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Backup MSO LB v2.0">91283f804fe06b00b6bec4b18110c745</sc_cat_item>
-        <sc_category display_value="MSO Server">1fe5f7754fc71300b6bec4b18110c7c4</sc_category>
+        <sc_cat_item display_value="ZZZ Backup MSO LB v2.0">91283f804fe06b00b6bec4b18110c745</sc_cat_item>
+        <sc_category display_value="MSV Servers">1fe5f7754fc71300b6bec4b18110c7c4</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-10 09:11:42</sys_created_on>

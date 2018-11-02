@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="MSO_VM">97b83bf54fc71300b6bec4b18110c75a</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:bb264c8e4fc71300b6bec4b18110c7d5</catalog_variable>
         <disabled>true</disabled>
         <field/>

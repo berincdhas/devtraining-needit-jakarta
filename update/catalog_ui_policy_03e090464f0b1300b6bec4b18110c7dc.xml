@@ -8,7 +8,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions/>
-        <catalog_item display_value="MSO_VM">97b83bf54fc71300b6bec4b18110c75a</catalog_item>
+        <catalog_item/>
         <conditions/>
         <description/>
         <global>true</global>

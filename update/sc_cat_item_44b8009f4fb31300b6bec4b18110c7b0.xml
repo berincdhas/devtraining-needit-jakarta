@@ -4,7 +4,7 @@
         <active>true</active>
         <availability>on_both</availability>
         <billable>false</billable>
-        <category display_value="MSO Server">1fe5f7754fc71300b6bec4b18110c7c4</category>
+        <category display_value="MSV Servers">1fe5f7754fc71300b6bec4b18110c7c4</category>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
@@ -23,7 +23,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>MSO VM v2.0 Dutch</name>
+        <name>ZZZ MSO VM v2.0 Dutch</name>
         <no_cart>false</no_cart>
         <no_order>false</no_order>
         <no_order_now>false</no_order_now>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-13 11:18:40</sys_created_on>
         <sys_id>44b8009f4fb31300b6bec4b18110c7b0</sys_id>
-        <sys_mod_count>17</sys_mod_count>
-        <sys_name>MSO VM v2.0 Dutch</sys_name>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>ZZZ MSO VM v2.0 Dutch</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sc_cat_item_44b8009f4fb31300b6bec4b18110c7b0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-14 07:09:53</sys_updated_on>
+        <sys_updated_on>2018-11-02 00:25:10</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>

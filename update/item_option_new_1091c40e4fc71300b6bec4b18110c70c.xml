@@ -3,7 +3,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="MSO_VM">97b83bf54fc71300b6bec4b18110c75a</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
