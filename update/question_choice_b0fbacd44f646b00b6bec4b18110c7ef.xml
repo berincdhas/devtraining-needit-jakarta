@@ -3,7 +3,7 @@
     <question_choice action="INSERT_OR_UPDATE">
         <misc>0</misc>
         <order>100</order>
-        <question display_value="Disk 7 Size in GB">30eba8d44f646b00b6bec4b18110c7d0</question>
+        <question display_value="Eighth Disk Size">30eba8d44f646b00b6bec4b18110c7d0</question>
         <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
