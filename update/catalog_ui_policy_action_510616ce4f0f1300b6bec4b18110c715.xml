@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="ZZZ get vm info and update uvcore table">bff5da8e4f0f1300b6bec4b18110c7f8</catalog_item>
+        <catalog_item display_value="get vm info and update uvcore table">bff5da8e4f0f1300b6bec4b18110c7f8</catalog_item>
         <catalog_variable>IO:cc0692ce4f0f1300b6bec4b18110c73f</catalog_variable>
         <disabled>ignore</disabled>
         <field/>
