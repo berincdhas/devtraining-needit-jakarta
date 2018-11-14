@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="uvcore_physical_server" max_length="40" name="x_58872_needit_uvcore_physical_server" type="collection">
+        <element label="ActionTaken" max_length="100" name="actiontaken" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element default="None" label="BackupMethod" max_length="40" name="backupmethod" type="string"/>
+        <element default="None" label="BackupPolicy" max_length="40" name="backuppolicy" type="string"/>
+        <element default="None" label="BackupType" max_length="40" name="backuptype" type="string"/>
+        <element default="None" label="BackupWindow" max_length="40" name="backupwindow" type="string"/>
+        <element label="BillingCode" max_length="50" name="billingcode" type="string"/>
+        <element label="BusinessInformation" max_length="40" name="businessinformation" type="string"/>
+        <element label="CISupportTier" max_length="40" name="cisupporttier" type="string"/>
+        <element label="CPUcount" max_length="40" name="cpucount" type="string"/>
+        <element label="CUSTOMER" max_length="40" name="customer" type="string"/>
+        <element label="DeployStartDateTime" max_length="40" name="deploystartdatetime" type="string"/>
+        <element label="disk0Datastore" max_length="40" name="disk0datastore" type="string"/>
+        <element label="disk0SizeGB" max_length="40" name="disk0sizegb" type="string"/>
+        <element label="disk0StorageTier" max_length="40" name="disk0storagetier" type="string"/>
+        <element label="disk1SizeGB" max_length="40" name="disk1sizegb" type="string"/>
+        <element label="disk1StorageTier" max_length="40" name="disk1storagetier" type="string"/>
+        <element label="disk2SizeGB" max_length="40" name="disk2sizegb" type="string"/>
+        <element label="disk2StorageTier" max_length="40" name="disk2storagetier" type="string"/>
+        <element label="disk3SizeGB" max_length="40" name="disk3sizegb" type="string"/>
+        <element label="disk3StorageTier" max_length="40" name="disk3storagetier" type="string"/>
+        <element label="disk4SizeGB" max_length="40" name="disk4sizegb" type="string"/>
+        <element label="disk4StorageTier" max_length="40" name="disk4storagetier" type="string"/>
+        <element label="disk5SizeGB" max_length="40" name="disk5sizegb" type="string"/>
+        <element label="disk5StorageTier" max_length="40" name="disk5storagetier" type="string"/>
+        <element label="disk6SizeGB" max_length="40" name="disk6sizegb" type="string"/>
+        <element label="disk6StorageTier" max_length="40" name="disk6storagetier" type="string"/>
+        <element label="disk7SizeGB" max_length="40" name="disk7sizegb" type="string"/>
+        <element label="disk7StorageTier" max_length="40" name="disk7storagetier" type="string"/>
+        <element label="disk8SizeGB" max_length="40" name="disk8sizegb" type="string"/>
+        <element label="disk8StorageTier" max_length="40" name="disk8storagetier" type="string"/>
+        <element label="disk9SizeGB" max_length="40" name="disk9sizegb" type="string"/>
+        <element label="disk9StorageTier" max_length="40" name="disk9storagetier" type="string"/>
+        <element label="diskCount" max_length="40" name="diskcount" type="string"/>
+        <element label="domainNumber" max_length="40" name="domainnumber" type="string"/>
+        <element label="enableBackup" max_length="40" name="enablebackup" type="string"/>
+        <element label="enableFirewall" max_length="40" name="enablefirewall" type="string"/>
+        <element label="EnableSRM" max_length="40" name="enablesrm" type="string"/>
+        <element label="Function" max_length="40" name="function" type="string"/>
+        <element label="guestFullName" max_length="40" name="guestfullname" type="string"/>
+        <element label="guestId" max_length="40" name="guestid" type="string"/>
+        <element label="HardwarePreset" max_length="40" name="hardwarepreset" type="string"/>
+        <element label="hardwareType" max_length="40" name="hardwaretype" type="string"/>
+        <element label="HostEnvironment" max_length="40" name="hostenvironment" type="string"/>
+        <element label="Hostname dns" max_length="40" name="hostname_dns" type="string"/>
+        <element label="Hostname fqdn" max_length="40" name="hostname_fqdn" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
