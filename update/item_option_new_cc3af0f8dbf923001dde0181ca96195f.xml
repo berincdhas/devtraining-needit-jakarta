@@ -38,7 +38,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>hasOperationOrchestration</name>
-        <order/>
+        <order>320</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>hasOperationOrchestration</question_text>
@@ -60,14 +60,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-13 06:36:20</sys_created_on>
         <sys_id>cc3af0f8dbf923001dde0181ca96195f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>hasOperationOrchestration</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>item_option_new_cc3af0f8dbf923001dde0181ca96195f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-14 11:44:05</sys_updated_on>
+        <sys_updated_on>2018-11-15 09:53:32</sys_updated_on>
         <table/>
         <tooltip/>
         <type>1</type>

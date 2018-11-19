@@ -21,7 +21,7 @@
 	var i;
 	if(newValue == 'Deploy'){
 		g_form.setDisplay('subscriptionID',false);
-		g_form.clearValue('subscriptionName');
+		//g_form.clearValue('subscriptionName');
 		g_form.setDisplay('subscriptionName',true);
 		g_form.setMandatory('subscription_name',false);
 		g_form.setDisplay('subscription_name',false);
@@ -34,7 +34,7 @@
 		//g_form.setDisplay('backup_type',true);
 		g_form.clearValue('disk_size');
 		g_form.setDisplay('disk_size',true);
-		g_form.setDisplay('disk0_size',false);
+		g_form.setDisplay('disk0_size',true);
 		
 		console.log("=g_form.getValue('diskTotal') :"+ g_form.getValue('disk_total'));
 		for(i=1;i<=parseInt(g_form.getValue('disk_total'));i++)
@@ -108,7 +108,7 @@
 		g_form.setDisplay('u_hwpreset',true);
 		g_form.setDisabled('u_hwpreset',false);
 		g_form.setDisplay('NICCOUNT',false);
-		g_form.clearValue('enableSRM');
+		//g_form.clearValue('enableSRM');
 		g_form.setDisplay('enableSRM',true);
 		g_form.clearValue('vmNsxSecTag1');
 		g_form.setDisplay('vmNsxSecTag1',true);
@@ -122,7 +122,7 @@
 		g_form.setDisplay('osPatchDay',true);
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
-		g_form.clearValue('subscriptionDescription');
+		//g_form.clearValue('subscriptionDescription');
 		g_form.setDisplay('subscriptionDescription',true);
 		//g_form.setDisplay('backupType',true);
 		//g_form.setDisplay('backupMethod',true);
@@ -254,7 +254,7 @@
 		g_form.setDisplay('u_hwpreset',true);
 		g_form.setDisabled('u_hwpreset',false);
 		g_form.setDisplay('NICCOUNT',false);
-		g_form.clearValue('enableSRM');
+		//_form.clearValue('enableSRM');
 		g_form.setDisplay('enableSRM',true);
 		g_form.clearValue('vmNsxSecTag1');
 		g_form.setDisplay('vmNsxSecTag1',true);
@@ -484,7 +484,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f4ae943cdbb923001dde0181ca9619dd</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Manage fields based on Phase</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -492,7 +492,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_f4ae943cdbb923001dde0181ca9619dd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-13 04:35:20</sys_updated_on>
+        <sys_updated_on>2018-11-19 07:19:50</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>

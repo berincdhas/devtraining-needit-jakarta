@@ -5931,9 +5931,12 @@ workflow.scratchpad.getvminfoexecutionId = responsebody.executionId;&#13;
         <input>{"subscriptionName":"${current.variables.subscriptionName}","subscriptionDiscription":"${current.variables.subscriptionDiscription}","Reference":"${current.sys_id}","SubscriptionID":"${current.number}","serviceRequestId":"${current.request.getDisplayValue()}","subscriptionEmail":"${current.variables.subscription_email}","CUSTOMER":"${current.variables.customer}","SRAEnvironment":"${current.variables.sra_environment}","HostEnvironment":"${current.variables.host_environment}","SiteID":"${current.variables.site_id}","hardwareType":"${current.variables.hardware_type}","HardwarePreset":"${current.variables.u_hwpreset}","Function":"${current.variables.function_name}","OSName":"${current.variables.os_name}","domainNumber":"${current.variables.domain_number}","isVirtual":"${current.variables.is_it_virtual_machine}","SecurityZone":"${current.variables.securityzone}","disk1SizeGB":"${current.variables.disk1_size}","disk2SizeGB":"${current.variables.disk2_size}","disk3SizeGB":"${current.variables.disk3_size}","disk4SizeGB":"${current.variables.disk4_size}","disk5SizeGB":"${current.variables.disk5_size}","disk6SizeGB":"${current.variables.disk6_size}","disk7SizeGB":"${current.variables.disk7_size}","disk8SizeGB":"${current.variables.disk8_size}","disk9SizeGB":"${current.variables.disk9_size}","diskTotal":"${current.variables.disk_total}","NIC0Connection":"${current.variables.NIC0Connection}","NIC1Connection":"${current.variables.NIC1Connection}","NIC2Connection":"${current.variables.NIC2Connection}","NIC3Connection":"${current.variables.NIC3Connection}","NIC4Connection":"${current.variables.NIC4Connection}","NIC5Connection":"${current.variables.NIC5Connection}","NIC6Connection":"${current.variables.NIC6Connection}","NIC7Connection":"${current.variables.NIC7Connection}","NIC8Connection":"${current.variables.NIC8Connection}","NIC9Connection":"${current.variables.NIC9Connection}","EnableBackup":"${current.variables.enableBackup}","BackupType":"${current.variables.backupType}","BackupPolicy":"${current.variables.backupPolicy}","BackupMethod":"${current.variables.backupMethod}","BackupWindow":"${current.variables.backupWindow}","OutageDay":"${current.variables.OutageDay}","OutageTime":"${current.variables.OutageTime}","OSPatchTime":"${current.variables.OSPatchTime}","OSPatchDay":"${current.variables.OSPatchDay}","Tags":"${current.variables.Tags}","firewallEnabled":"${current.variables.enableFirewall}","vmNsxSecTag1":"${current.variables.vmNsxSecTag1}","vmNsxSecTag2":"${current.variables.vmNsxSecTag2}","vmNsxSecTag3":"${current.variables.vmNsxSecTag3}","vmNsxSecTag4":"${current.variables.vmNsxSecTag4}","associatedLB":"${current.variables.associatedLB}","PrivilagedUsers":"${current.variables.PrivilagedUsers}","CISupportTier":"${current.variables.CISupportTier}","CIImpact":"${current.variables.CIImpact}","EnableSRM":"${current.variables.enableSRM}","OnDemandBackup":"None","BusinessInformation":"${current.variables.BusinessInformation}","BillingCode":"${current.variables.BillingCode}","CustomProperty1":"NONE","CustomProperty2":"NONE","CustomProperty3":"NONE","CustomProperty4":"NONE","CustomProperty5":"NONE","CustomProperty6":"NONE","CustomProperty7":"NONE","CustomProperty8":"NONE","CustomProperty9":"NONE","CustomProperty0":"NONE","managed_by":"${current.variables.managed_by}","disk0SizeGB":"${current.variables.disk0_size}"}</input>
         <is_parent>false</is_parent>
         <name>Run Deploy</name>
-        <new_activity_definition/>
-        <notes/>
-        <out_of_date>false</out_of_date>
+        <new_activity_definition display_value="uvCore_POST_Run_Deploy">40f101fedbb523001dde0181ca961939</new_activity_definition>
+        <notes>There is a newer version of this activity.
+
+To update the activity, check out the workflow, select the activity, right click
+and select 'Update activity' to use the latest version, then publish the workflow</notes>
+        <out_of_date>true</out_of_date>
         <parent/>
         <pinned>false</pinned>
         <pinned_version/>
@@ -5941,9 +5944,9 @@ workflow.scratchpad.getvminfoexecutionId = responsebody.executionId;&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-17 08:25:44</sys_created_on>
         <sys_id>34709604db1963001dde0181ca961944</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-26 12:40:38</sys_updated_on>
+        <sys_updated_on>2018-11-19 12:23:52</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>

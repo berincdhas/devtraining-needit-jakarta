@@ -88,6 +88,7 @@
         <element label="serviceRequestId" max_length="40" name="servicerequestid" type="string"/>
         <element label="SiteID" max_length="40" name="siteid" type="string"/>
         <element label="SRAEnvironment" max_length="40" name="sraenvironment" type="string"/>
+        <element label="subscriptionDescription" max_length="100" name="subscriptiondescription" type="string"/>
         <element label="subscriptionEmail" max_length="40" name="subscriptionemail" type="string"/>
         <element label="SubscriptionID" max_length="40" name="subscriptionid" type="string"/>
         <element label="subscriptionName" max_length="40" name="subscriptionname" type="string"/>
