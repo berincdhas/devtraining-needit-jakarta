@@ -21,7 +21,7 @@
 	var i;
 	if(newValue == 'Deploy'){
 		g_form.setDisplay('subscriptionID',false);
-		g_form.clearValue('subscriptionName');
+		//g_form.clearValue('subscriptionName');
 		g_form.setDisplay('subscriptionName',true);
 		g_form.setMandatory('subscription_name',false);
 		g_form.setDisplay('subscription_name',false);
@@ -108,7 +108,7 @@
 		g_form.setDisplay('u_hwpreset',true);
 		g_form.setDisabled('u_hwpreset',false);
 		g_form.setDisplay('NICCOUNT',false);
-		g_form.clearValue('enableSRM');
+		//g_form.clearValue('enableSRM');
 		g_form.setDisplay('enableSRM',true);
 		g_form.clearValue('vmNsxSecTag1');
 		g_form.setDisplay('vmNsxSecTag1',true);
@@ -122,7 +122,7 @@
 		g_form.setDisplay('osPatchDay',true);
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
-		g_form.clearValue('subscriptionDescription');
+		//g_form.clearValue('subscriptionDescription');
 		g_form.setDisplay('subscriptionDescription',true);
 		//g_form.setDisplay('backupType',true);
 		//g_form.setDisplay('backupMethod',true);
@@ -130,10 +130,10 @@
 		//g_form.setDisplay('backupWindow',true);
 		g_form.setDisplay('CIImpact',true);
 		g_form.setDisplay('CISupportTier',true);
-		g_form.clearValue('enableBackup');
+		//g_form.clearValue('enableBackup');
 		g_form.setDisplay('enableBackup',true);
 		//g_form.setValue('enableBackup', 'Yes');
-		g_form.clearValue('enableFirewall');
+		//g_form.clearValue('enableFirewall');
 		g_form.setDisplay('enableFirewall',true);
 		//g_form.setValue('enableFirewall', 'Yes');
 		g_form.setDisplay('securityzone',true);
@@ -168,7 +168,7 @@
 		g_form.clearValue('subscriptionID');
 		g_form.setDisplay('subscriptionID',true);
 		g_form.setDisplay('subscriptionName',false);
-		g_form.clearValue('subscription_name');
+		//g_form.clearValue('subscription_name');
 		g_form.setMandatory('subscription_name',true);
 		g_form.setDisplay('subscription_name',true);
 		g_form.setDisplay('sra_environment',false);
@@ -225,7 +225,7 @@
 		g_form.setDisplay('managed_by',false);
 		g_form.setDisplay('function_name',false);
 		g_form.setDisplay('site_id',false);
-		g_form.clearValue('customer');
+		//g_form.clearValue('customer');
 		g_form.setDisplay('customer',true);
 		g_form.setDisabled('disk_allowled',true);
 		g_form.setDisabled('taskType',true);
@@ -254,7 +254,7 @@
 		g_form.setDisplay('u_hwpreset',true);
 		g_form.setDisabled('u_hwpreset',false);
 		g_form.setDisplay('NICCOUNT',false);
-		g_form.clearValue('enableSRM');
+		//g_form.clearValue('enableSRM');
 		g_form.setDisplay('enableSRM',true);
 		g_form.clearValue('vmNsxSecTag1');
 		g_form.setDisplay('vmNsxSecTag1',true);
@@ -268,7 +268,7 @@
 		g_form.setDisplay('osPatchDay',true);
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
-		g_form.clearValue('subscriptionDescription');
+		//g_form.clearValue('subscriptionDescription');
 		g_form.setDisplay('subscriptionDescription',true);
 		//g_form.setDisplay('backupType',true);
 		//g_form.setDisplay('backupMethod',true);
@@ -276,9 +276,9 @@
 		//g_form.setDisplay('backupWindow',true);
 		g_form.setDisplay('CIImpact',true);
 		g_form.setDisplay('CISupportTier',true);
-		g_form.clearValue('enableBackup');
+		//g_form.clearValue('enableBackup');
 		g_form.setDisplay('enableBackup',true);
-		g_form.clearValue('enableFirewall');
+		//g_form.clearValue('enableFirewall');
 		g_form.setDisplay('enableFirewall',true);
 		g_form.setDisplay('securityzone',true);
 		g_form.setDisplay('BusinessInformation',true);
@@ -308,7 +308,7 @@
 	else if(newValue == 'Decommission'){
 		g_form.setDisplay('subscriptionID',true);
 		g_form.setDisplay('subscriptionName',false);
-		g_form.clearValue('subscription_name');
+		//g_form.clearValue('subscription_name');
 		g_form.setDisplay('subscription_name',true);
 		g_form.setMandatory('subscription_name',true);
 		g_form.setDisplay('sra_environment',false);
@@ -484,7 +484,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c2fb20184f646b00b6bec4b18110c76f</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name>Manage fields based on Phase</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -492,7 +492,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_c2fb20184f646b00b6bec4b18110c76f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-12 09:35:28</sys_updated_on>
+        <sys_updated_on>2018-11-22 12:07:46</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>
