@@ -1342,6 +1342,34 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actiontaken</element>
+            <position>95</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-23 06:27:50</sys_created_on>
+            <sys_id>9a4858c4dbcea3001dde0181ca9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-23 06:27:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subscription_status</element>
+            <position>96</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-23 06:55:04</sys_created_on>
+            <sys_id>518e1cc8dbcea3001dde0181ca961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-23 06:55:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

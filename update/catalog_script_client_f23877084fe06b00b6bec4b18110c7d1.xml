@@ -8,7 +8,7 @@
         <applies_sc_task>true</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="ZZZ Backup MSO LB v2.0">91283f804fe06b00b6bec4b18110c745</cat_item>
+        <cat_item/>
         <cat_variable>IO:e328b3084fe06b00b6bec4b18110c707</cat_variable>
         <condition/>
         <description/>

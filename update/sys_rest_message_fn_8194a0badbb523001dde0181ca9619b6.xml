@@ -22,6 +22,10 @@
 		"HostEnvironment": "${HostEnvironment}",&#13;
 		"SiteID": "${SiteID}", &#13;
 		"hardwareType": "${hardwareType}", &#13;
+                "dbInstanceName": "${dbInstanceName}",&#13;
+                "HardwarePreset": "${HardwarePreset}", &#13;
+                "MemoryGB" : "${MemoryGB}",&#13;
+                "CPUcount" :   "${CPUcount}",&#13;
 &#13;
 		"Function": "${Function}", &#13;
 		"serverCount": "1",&#13;
@@ -86,14 +90,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-19 10:09:37</sys_created_on>
         <sys_id>8194a0badbb523001dde0181ca9619b6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Add Middleware</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_rest_message_fn_8194a0badbb523001dde0181ca9619b6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-19 17:35:00</sys_updated_on>
+        <sys_updated_on>2018-11-27 02:46:15</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mid_server display_value="usplmid1001">83a391a2db1123001dde0181ca9619a4</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>

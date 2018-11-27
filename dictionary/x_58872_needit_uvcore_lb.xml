@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="uvCore_LB" max_length="40" name="x_58872_needit_uvcore_lb" type="collection">
+        <element label="ActionTaken" max_length="100" name="actiontaken" type="string"/>
         <element label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element label="BackupType" max_length="40" name="backuptype" type="string"/>
@@ -92,6 +93,7 @@
         <element label="subscriptionEmail" max_length="40" name="subscriptionemail" type="string"/>
         <element label="SubscriptionID" max_length="40" name="subscriptionid" type="string"/>
         <element label="subscriptionName" max_length="40" name="subscriptionname" type="string"/>
+        <element label="Subscription status" max_length="40" name="subscription_status" type="string"/>
         <index name="index">
             <element name="assigned_to"/>
         </index>
