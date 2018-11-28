@@ -345,7 +345,7 @@
 		g_form.setDisplay('managed_by',false);
 		g_form.setDisplay('function_name',false);
 		g_form.setDisplay('site_id',false);
-		g_form.clearValue('customer');
+		//g_form.clearValue('customer');
 		g_form.setDisplay('customer',true);
 		g_form.setDisabled('disk_allowled',false);
 		g_form.setDisabled('taskType',true);
@@ -374,7 +374,7 @@
 		g_form.setDisplay('osPatchDay',false);
 		g_form.setDisplay('osPatchTime',false);
 		g_form.setDisplay('PrivilagedUser',false);
-		g_form.clearValue('subscriptionDescription');
+		//g_form.clearValue('subscriptionDescription');
 		g_form.setDisplay('subscriptionDescription',true);
 		//g_form.setDisplay('backupType',false);
 		//g_form.setDisplay('backupMethod',false);
@@ -484,7 +484,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c2fb20184f646b00b6bec4b18110c76f</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name>Manage fields based on Phase</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -492,7 +492,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_c2fb20184f646b00b6bec4b18110c76f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-22 12:07:46</sys_updated_on>
+        <sys_updated_on>2018-11-28 06:55:33</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>
