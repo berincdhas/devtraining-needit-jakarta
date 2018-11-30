@@ -1370,6 +1370,160 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ciimpact</element>
+            <position>97</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:32:21</sys_created_on>
+            <sys_id>bad29775dbce23001dde0181ca9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:32:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ciisvirtual</element>
+            <position>98</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:32:44</sys_created_on>
+            <sys_id>64f2df75dbce23001dde0181ca9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:32:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cimanufacturer</element>
+            <position>99</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:33:10</sys_created_on>
+            <sys_id>0703df75dbce23001dde0181ca96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:33:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ciparenttype</element>
+            <position>100</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:33:41</sys_created_on>
+            <sys_id>9623d3b5dbce23001dde0181ca961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:33:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ciremoteconsole</element>
+            <position>101</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:34:09</sys_created_on>
+            <sys_id>014317b5dbce23001dde0181ca96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:34:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cisupporttier</element>
+            <position>102</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:34:34</sys_created_on>
+            <sys_id>1b53d7b5dbce23001dde0181ca96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:34:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cisystemmodel</element>
+            <position>103</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:34:57</sys_created_on>
+            <sys_id>497313b5dbce23001dde0181ca961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:34:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>civirtualizationrole</element>
+            <position>104</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:35:22</sys_created_on>
+            <sys_id>478357b5dbce23001dde0181ca961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:35:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>civirtualtechnology</element>
+            <position>105</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 06:35:42</sys_created_on>
+            <sys_id>44a3d3b5dbce23001dde0181ca961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 06:35:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sitedescription</element>
+            <position>106</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 09:51:54</sys_created_on>
+            <sys_id>02804ccedb0263001dde0181ca961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 09:51:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>joindomain</element>
+            <position>107</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 09:55:15</sys_created_on>
+            <sys_id>4741c802db4263001dde0181ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 09:55:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

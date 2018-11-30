@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="sys_user" version="2" view="needit_users_view">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Needit_Users_View" name="sys_user" related_list="NULL" sys_domain="global" view="efc88016db4a63001dde0181ca9619f6">dce8c856db4a63001dde0181ca961900</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sys_user_has_role.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_id>94e8c856db4a63001dde0181ca961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Needit_Users_View" name="sys_user" related_list="NULL" sys_domain="global" view="efc88016db4a63001dde0181ca9619f6">dce8c856db4a63001dde0181ca961900</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sys_user_grmember.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_id>98e8c856db4a63001dde0181ca961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Needit_Users_View" name="sys_user" related_list="NULL" sys_domain="global" view="efc88016db4a63001dde0181ca9619f6">dce8c856db4a63001dde0181ca961900</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sys_user_delegate.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_id>9ce8c856db4a63001dde0181ca961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Needit_Users_View" name="sys_user" related_list="NULL" sys_domain="global" view="efc88016db4a63001dde0181ca9619f6">dce8c856db4a63001dde0181ca961900</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:b31dbb025b3012002eff8405f0f91a67</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_id>90e8c856db4a63001dde0181ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Needit_Users_View" name="sys_user" related_list="NULL" sys_domain="global" view="efc88016db4a63001dde0181ca9619f6">dce8c856db4a63001dde0181ca961900</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sys_user_has_license.user</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_id>94e8c856db4a63001dde0181ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="User - Needit_Users_View" name="sys_user" related_list="NULL" sys_domain="global" view="efc88016db4a63001dde0181ca9619f6">dce8c856db4a63001dde0181ca961900</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>cmdb_ci.assigned_to</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_id>98e8c856db4a63001dde0181ca961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>User - Needit_Users_View</calculated_name>
+            <filter/>
+            <name>sys_user</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-30 05:06:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dce8c856db4a63001dde0181ca961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User - Needit_Users_View</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_sys_user_needit_users_view</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-30 05:06:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Needit_Users_View" name="needit_users_view">efc88016db4a63001dde0181ca9619f6</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

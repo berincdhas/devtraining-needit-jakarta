@@ -10,7 +10,15 @@
         <element default="None" label="BackupWindow" max_length="40" name="backupwindow" type="string"/>
         <element label="BillingCode" max_length="50" name="billingcode" type="string"/>
         <element label="BusinessInformation" max_length="40" name="businessinformation" type="string"/>
+        <element label="CIImpact" max_length="50" name="ciimpact" type="string"/>
+        <element label="CIIsVirtual" max_length="40" name="ciisvirtual" type="string"/>
+        <element label="CIManufacturer" max_length="40" name="cimanufacturer" type="string"/>
+        <element label="CIParentType" max_length="40" name="ciparenttype" type="string"/>
+        <element label="CIRemoteConsole" max_length="40" name="ciremoteconsole" type="string"/>
         <element label="CISupportTier" max_length="40" name="cisupporttier" type="string"/>
+        <element label="CISystemModel" max_length="40" name="cisystemmodel" type="string"/>
+        <element label="CIVirtualizationRole" max_length="40" name="civirtualizationrole" type="string"/>
+        <element label="CIVirtualTechnology" max_length="40" name="civirtualtechnology" type="string"/>
         <element label="clusterName" max_length="40" name="clustername" type="string"/>
         <element label="CPUcount" max_length="40" name="cpucount" type="string"/>
         <element label="CUSTOMER" max_length="40" name="customer" type="string"/>
