@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="wf_workflow_version">
+    <wf_workflow_version action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_stages>{"activities":{},"ends":["62b9a3c7db0223001dde0181ca961905"],"subflows":[],"stages":{}}</activity_stages>
+        <after_business_rules>false</after_business_rules>
+        <checked_out/>
+        <checked_out_by/>
+        <column_renderer display_value="Workflow-driven">a56213111b030100adca1e094f0713ac</column_renderer>
+        <condition/>
+        <condition_type>run_match</condition_type>
+        <description/>
+        <expected_sequences>6eb9a3c7db0223001dde0181ca961903,29f96fc7db0223001dde0181ca96190f,62b9a3c7db0223001dde0181ca961905</expected_sequences>
+        <expected_time>1970-01-01 14:00:00</expected_time>
+        <expected_time_type/>
+        <full_sequences>6eb9a3c7db0223001dde0181ca961903,29f96fc7db0223001dde0181ca96190f,62b9a3c7db0223001dde0181ca961905,162aafc7db0223001dde0181ca9619b5</full_sequences>
+        <journal/>
+        <max_activity_count>100</max_activity_count>
+        <name>Get available LB</name>
+        <not_cacheable>false</not_cacheable>
+        <on_cancel><![CDATA[// This script executes if the workflow is cancelled.// The global variable context_sys_id contains the sys_id of the cancelled workflow context.]]></on_cancel>
+        <order>100</order>
+        <pin_type>set_by_activity</pin_type>
+        <published>true</published>
+        <relative_duration/>
+        <requires_ert>true</requires_ert>
+        <run_multiple>false</run_multiple>
+        <schedule/>
+        <stage_field/>
+        <stage_order>computed</stage_order>
+        <start display_value="Begin">6eb9a3c7db0223001dde0181ca961903</start>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:24:39</sys_created_on>
+        <sys_id>ed79e7c7db0223001dde0181ca9619c6</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 06:21:10</sys_updated_on>
+        <table>task</table>
+        <timezone/>
+        <validated>true</validated>
+        <workflow display_value="Get available LB">62b9a3c7db0223001dde0181ca961903</workflow>
+    </wf_workflow_version>
+    <wf_workflow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <description/>
+        <name>Get available LB</name>
+        <preview/>
+        <sys_class_name>wf_workflow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:24:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>62b9a3c7db0223001dde0181ca961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get available LB</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>wf_workflow_62b9a3c7db0223001dde0181ca961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:24:39</sys_updated_on>
+        <table>task</table>
+        <template>false</template>
+        <vars/>
+    </wf_workflow>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Run Script">db8c65aec0a8016501d00259bc7203a4</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>4</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Add to LB table</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:26:53</sys_created_on>
+        <sys_id>162aafc7db0223001dde0181ca9619b5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:47:40</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Get available LB">ed79e7c7db0223001dde0181ca9619c6</workflow_version>
+        <x>385</x>
+        <y>171</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=162aafc7db0223001dde0181ca9619b5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>162aafc7db0223001dde0181ca9619b5</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:26:53</sys_created_on>
+        <sys_id>533aabc7db0223001dde0181ca961904</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:47:40</sys_updated_on>
+        <value>var get_LB = 3;&#13;
+workflow.info("data.get("+get_LB+").statucode : "+data.get(get_LB).status_code);&#13;
+&#13;
+workflow.info("Responce Body : "+data.get(get_LB).body);&#13;
+&#13;
+responseBodystr = data.get(get_LB).body;&#13;
+&#13;
+responsebody = JSON.parse(responseBodystr);&#13;
+&#13;
+workflow.info("responsebody.executionId : "+responsebody.executionId);&#13;
+&#13;
+&#13;
+workflow.scratchpad.getlbexecutionId = responsebody.executionId;&#13;
+</value>
+        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>wf_activity</document>
+        <document_key>162aafc7db0223001dde0181ca9619b5</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:26:53</sys_created_on>
+        <sys_id>533aabc7db0223001dde0181ca961904</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:47:40</sys_updated_on>
+        <value>var get_LB = 3;&#13;
+workflow.info("data.get("+get_LB+").statucode : "+data.get(get_LB).status_code);&#13;
+&#13;
+workflow.info("Responce Body : "+data.get(get_LB).body);&#13;
+&#13;
+responseBodystr = data.get(get_LB).body;&#13;
+&#13;
+responsebody = JSON.parse(responseBodystr);&#13;
+&#13;
+workflow.info("responsebody.executionId : "+responsebody.executionId);&#13;
+&#13;
+&#13;
+workflow.scratchpad.getlbexecutionId = responsebody.executionId;&#13;
+</value>
+        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+    </sys_variable_value>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Add to LB table">162aafc7db0223001dde0181ca9619b5</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:26:53</sys_created_on>
+        <sys_id>df3aabc7db0223001dde0181ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:26:53</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Begin">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>1</databus_lookup_id>
+        <height/>
+        <input/>
+        <is_parent>false</is_parent>
+        <name>Begin</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:24:39</sys_created_on>
+        <sys_id>6eb9a3c7db0223001dde0181ca961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:24:39</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width>80</width>
+        <workflow_version display_value="Get available LB">ed79e7c7db0223001dde0181ca9619c6</workflow_version>
+        <x>20</x>
+        <y>20</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=6eb9a3c7db0223001dde0181ca961903"/>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Begin">6eb9a3c7db0223001dde0181ca961903</activity>
+        <condition>true</condition>
+        <condition_default/>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>true</is_positive>
+        <name>Always</name>
+        <order>0</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:24:40</sys_created_on>
+        <sys_id>e6b9a3c7db0223001dde0181ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:24:40</sys_updated_on>
+    </wf_condition>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="End">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>2</databus_lookup_id>
+        <height/>
+        <input/>
+        <is_parent>false</is_parent>
+        <name>End</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:24:40</sys_created_on>
+        <sys_id>62b9a3c7db0223001dde0181ca961905</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:27:19</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width>80</width>
+        <workflow_version display_value="Get available LB">ed79e7c7db0223001dde0181ca9619c6</workflow_version>
+        <x>545</x>
+        <y>74</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=62b9a3c7db0223001dde0181ca961905"/>
+    <wf_activity action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Get Available LB">993fa74bdb0223001dde0181ca96194c</activity_definition>
+        <activity_definition_updated>false</activity_definition_updated>
+        <databus_lookup_id>3</databus_lookup_id>
+        <height/>
+        <input>{}</input>
+        <is_parent>false</is_parent>
+        <name>Get Lb Rest API</name>
+        <new_activity_definition/>
+        <notes/>
+        <out_of_date>false</out_of_date>
+        <parent/>
+        <pinned>false</pinned>
+        <pinned_version/>
+        <stage/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:25:55</sys_created_on>
+        <sys_id>29f96fc7db0223001dde0181ca96190f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:48:36</sys_updated_on>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <vars/>
+        <width/>
+        <workflow_version display_value="Get available LB">ed79e7c7db0223001dde0181ca9619c6</workflow_version>
+        <x>115</x>
+        <y>121</y>
+    </wf_activity>
+    <sys_variable_value action="delete_multiple" query="document_key=29f96fc7db0223001dde0181ca96190f"/>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</activity>
+        <condition/>
+        <condition_default display_value="Error">b2b82747db0223001dde0181ca961922</condition_default>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>Error</name>
+        <order>-1</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:25:55</sys_created_on>
+        <sys_id>f00a6bc7db0223001dde0181ca9619f4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:49:09</sys_updated_on>
+    </wf_condition>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</activity>
+        <condition>activityOutput.status_code != 201</condition>
+        <condition_default display_value="failure">96a82783db0223001dde0181ca96197c</condition_default>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>failure</name>
+        <order>200</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:25:55</sys_created_on>
+        <sys_id>fc0a6bc7db0223001dde0181ca9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:25:55</sys_updated_on>
+    </wf_condition>
+    <wf_condition action="INSERT_OR_UPDATE">
+        <activity display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</activity>
+        <condition>activityOutput.status_code == 201</condition>
+        <condition_default display_value="success">acc62f43db0223001dde0181ca9619c5</condition_default>
+        <condition_type>standard</condition_type>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <is_positive>false</is_positive>
+        <name>success</name>
+        <order>100</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:25:55</sys_created_on>
+        <sys_id>700a6bc7db0223001dde0181ca9619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:25:55</sys_updated_on>
+    </wf_condition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">df3aabc7db0223001dde0181ca961904</condition>
+        <from display_value="Add to LB table">162aafc7db0223001dde0181ca9619b5</from>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:27:03</sys_created_on>
+        <sys_id>594a6bc7db0223001dde0181ca9619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:27:03</sys_updated_on>
+        <to display_value="End">62b9a3c7db0223001dde0181ca961905</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="success">700a6bc7db0223001dde0181ca9619f4</condition>
+        <from display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</from>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:27:00</sys_created_on>
+        <sys_id>604aafc7db0223001dde0181ca9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:27:00</sys_updated_on>
+        <to display_value="Add to LB table">162aafc7db0223001dde0181ca9619b5</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="failure">fc0a6bc7db0223001dde0181ca9619f3</condition>
+        <from display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</from>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:27:09</sys_created_on>
+        <sys_id>724ae7c7db0223001dde0181ca961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:27:09</sys_updated_on>
+        <to display_value="End">62b9a3c7db0223001dde0181ca961905</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Always">e6b9a3c7db0223001dde0181ca961904</condition>
+        <from display_value="Begin">6eb9a3c7db0223001dde0181ca961903</from>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:26:07</sys_created_on>
+        <sys_id>a70aabc7db0223001dde0181ca96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:26:07</sys_updated_on>
+        <to display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</to>
+    </wf_transition>
+    <wf_transition action="INSERT_OR_UPDATE">
+        <condition display_value="Error">f00a6bc7db0223001dde0181ca9619f4</condition>
+        <from display_value="Get Lb Rest API">29f96fc7db0223001dde0181ca96190f</from>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:27:07</sys_created_on>
+        <sys_id>d64aabc7db0223001dde0181ca961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:27:07</sys_updated_on>
+        <to display_value="End">62b9a3c7db0223001dde0181ca961905</to>
+    </wf_transition>
+    <wf_estimated_runtime_config action="INSERT_OR_UPDATE">
+        <estimated_run_time/>
+        <no_of_data_points>1</no_of_data_points>
+        <percentage_threshold_ert>20</percentage_threshold_ert>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 05:24:39</sys_created_on>
+        <sys_id>2ab9a3c7db0223001dde0181ca961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 05:24:39</sys_updated_on>
+        <workflow_version display_value="Get available LB">ed79e7c7db0223001dde0181ca9619c6</workflow_version>
+    </wf_estimated_runtime_config>
+    <wf_workflow_version action="update_multiple" query="workflow=62b9a3c7db0223001dde0181ca961903^sys_id!=ed79e7c7db0223001dde0181ca9619c6">
+        <published>false</published>
+    </wf_workflow_version>
+</record_update>

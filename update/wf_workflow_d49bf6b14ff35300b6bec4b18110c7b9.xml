@@ -2,7 +2,7 @@
 <record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"subflows":[],"stages":{},"ends":["72a83bb54f775300b6bec4b18110c7ee"],"activities":{}}</activity_stages>
+        <activity_stages>{"ends":["72a83bb54f775300b6bec4b18110c7ee"],"activities":{},"subflows":[],"stages":{}}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -32,9 +32,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-09 12:56:16</sys_created_on>
         <sys_id>baa83bb54f775300b6bec4b18110c7eb</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-09 13:13:02</sys_updated_on>
+        <sys_updated_on>2018-11-30 18:19:55</sys_updated_on>
         <table>sc_req_item</table>
         <timezone/>
         <validated>true</validated>
@@ -1127,7 +1127,7 @@ and select 'Update activity' to use the latest version, then publish the workflo
         <input>{"OOserver":"110.110.110.27","Port":"8080","Protocol":"http","reference":"94ef52f54fb35300b6bec4b18110c7e8","CSRF":""}</input>
         <is_parent>false</is_parent>
         <name>GET VM INFO</name>
-        <new_activity_definition display_value="uvCore_POST_Get_VM_INFO">5b52e0964fbf5300b6bec4b18110c750</new_activity_definition>
+        <new_activity_definition display_value="uvCore_POST_Get_VM_INFO">2207ef47db0223001dde0181ca9619a6</new_activity_definition>
         <notes>There is a newer version of this activity.
 
 To update the activity, check out the workflow, select the activity, right click
@@ -1140,9 +1140,9 @@ and select 'Update activity' to use the latest version, then publish the workflo
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-08-09 12:56:16</sys_created_on>
         <sys_id>32a8fbb54f775300b6bec4b18110c7fd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-10 10:37:31</sys_updated_on>
+        <sys_updated_on>2018-12-03 05:21:14</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>

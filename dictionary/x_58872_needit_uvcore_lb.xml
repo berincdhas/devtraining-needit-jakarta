@@ -93,6 +93,7 @@
         <element label="managedBy" max_length="40" name="managedby" type="string"/>
         <element label="OSName" max_length="40" name="osname" type="string"/>
         <element label="portalOOType" max_length="40" name="portalootype" type="string"/>
+        <element label="price" max_length="50" name="price" type="string"/>
         <element label="Reference" max_length="40" name="reference" type="string"/>
         <element label="requestUpdated" max_length="40" name="requestupdated" type="string"/>
         <element label="serverCount" max_length="40" name="servercount" type="string"/>

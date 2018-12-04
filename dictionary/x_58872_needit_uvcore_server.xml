@@ -97,6 +97,7 @@
         <element label="OutageDay" max_length="40" name="outageday" type="string"/>
         <element label="OutageWindow" max_length="40" name="outagewindow" type="string"/>
         <element label="powerState" max_length="40" name="powerstate" type="string"/>
+        <element label="price" max_length="50" name="price" type="string"/>
         <element label="primaryDNS" max_length="40" name="primarydns" type="string"/>
         <element label="PrivilegedUser" max_length="100" name="privilageduser" type="string"/>
         <element label="Reference" max_length="40" name="reference" type="string"/>
