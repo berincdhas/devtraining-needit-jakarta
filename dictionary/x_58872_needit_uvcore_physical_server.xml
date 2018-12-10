@@ -21,6 +21,7 @@
         <element label="CIVirtualTechnology" max_length="40" name="civirtualtechnology" type="string"/>
         <element label="CPUcount" max_length="40" name="cpucount" type="string"/>
         <element label="CUSTOMER" max_length="40" name="customer" type="string"/>
+        <element label="Decommision Date" max_length="50" name="decommision_date" type="string"/>
         <element label="DeployStartDateTime" max_length="40" name="deploystartdatetime" type="string"/>
         <element label="disk0Datastore" max_length="40" name="disk0datastore" type="string"/>
         <element label="disk0SizeGB" max_length="40" name="disk0sizegb" type="string"/>
@@ -66,7 +67,10 @@
         <element label="isCluster" max_length="40" name="iscluster" type="string"/>
         <element label="isVirtual" max_length="40" name="isvirtual" type="string"/>
         <element label="joinDomain" max_length="40" name="joindomain" type="string"/>
+        <element label="localadminPwd" max_length="50" name="localadminpwd" type="string"/>
+        <element label="localadminUsr" max_length="50" name="localadminusr" type="string"/>
         <element label="managedBy" max_length="40" name="managedby" type="string"/>
+        <element label="Mark delete" max_length="40" name="mark_delete" type="boolean"/>
         <element label="MemoryGB" max_length="40" name="memorygb" type="string"/>
         <element label="NIC0Connection" max_length="40" name="nic0connection" type="string"/>
         <element label="NIC1Connection" max_length="40" name="nic1connection" type="string"/>
@@ -91,6 +95,7 @@
         <element label="OutageDay" max_length="40" name="outageday" type="string"/>
         <element label="OutageWindow" max_length="40" name="outagewindow" type="string"/>
         <element label="powerState" max_length="40" name="powerstate" type="string"/>
+        <element label="Price" max_length="50" name="price" type="string"/>
         <element label="primaryDNS" max_length="40" name="primarydns" type="string"/>
         <element label="PrivilegedUser" max_length="40" name="privilegeduser" type="string"/>
         <element label="Reference" max_length="40" name="reference" type="string"/>
@@ -98,6 +103,8 @@
         <element label="secondaryDNS" max_length="40" name="secondarydns" type="string"/>
         <element label="SecurityZone" max_length="40" name="securityzone" type="string"/>
         <element label="serialNumber" max_length="40" name="serialnumber" type="string"/>
+        <element label="serverCustPassword" max_length="50" name="servercustpassword" type="string"/>
+        <element label="serverCustUsername" max_length="50" name="servercustusername" type="string"/>
         <element label="serverType" max_length="40" name="servertype" type="string"/>
         <element label="Service Request ID" max_length="40" name="service_request_id" type="string"/>
         <element label="shortDomain" max_length="40" name="shortdomain" type="string"/>

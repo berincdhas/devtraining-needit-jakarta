@@ -72,7 +72,7 @@
         <element label="localadminPwd" max_length="50" name="localadminpwd" type="string"/>
         <element label="localadminUsr" max_length="50" name="localadminusr" type="string"/>
         <element label="managedBy" max_length="40" name="managedby" type="string"/>
-        <element label="Mark for delete" max_length="40" name="mark_for_delete" type="boolean"/>
+        <element label="Mark Delete" max_length="40" name="mark_delete" type="boolean"/>
         <element label="MemoryGB" max_length="40" name="memorygb" type="string"/>
         <element label="NIC0Connection" max_length="40" name="nic0connection" type="string"/>
         <element label="NIC1Connection" max_length="40" name="nic1connection" type="string"/>

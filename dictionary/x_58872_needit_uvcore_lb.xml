@@ -15,6 +15,7 @@
         <element label="CIVirtualizationRole" max_length="40" name="civirtualizationrole" type="string"/>
         <element label="CIVirtualTechnology" max_length="40" name="civirtualtechnology" type="string"/>
         <element label="CUSTOMER" max_length="40" name="customer" type="string"/>
+        <element label="Decommision Date" max_length="50" name="decommision_date" type="string"/>
         <element label="disk0SizeGB" max_length="40" name="disk0sizegb" type="string"/>
         <element label="disk0StorageTier" max_length="40" name="disk0storagetier" type="string"/>
         <element label="disksAllowed" max_length="40" name="disksallowed" type="string"/>
@@ -90,13 +91,18 @@
         <element label="lbVIP9Port" max_length="40" name="lbvip9port" type="string"/>
         <element label="lbVIP9SecurityTagName" max_length="40" name="lbvip9securitytagname" type="string"/>
         <element label="lbVIP9Url" max_length="40" name="lbvip9url" type="string"/>
+        <element label="localadminPwd" max_length="50" name="localadminpwd" type="string"/>
+        <element label="localadminUsr" max_length="50" name="localadminusr" type="string"/>
         <element label="managedBy" max_length="40" name="managedby" type="string"/>
+        <element label="Mark Delete" max_length="40" name="mark_delete" type="boolean"/>
         <element label="OSName" max_length="40" name="osname" type="string"/>
         <element label="portalOOType" max_length="40" name="portalootype" type="string"/>
         <element label="price" max_length="50" name="price" type="string"/>
         <element label="Reference" max_length="40" name="reference" type="string"/>
         <element label="requestUpdated" max_length="40" name="requestupdated" type="string"/>
         <element label="serverCount" max_length="40" name="servercount" type="string"/>
+        <element label="serverCustPassword" max_length="50" name="servercustpassword" type="string"/>
+        <element label="serverCustUsername" max_length="50" name="servercustusername" type="string"/>
         <element label="serviceRequestId" max_length="40" name="servicerequestid" type="string"/>
         <element label="siteDescription" max_length="40" name="sitedescription" type="string"/>
         <element label="SiteID" max_length="40" name="siteid" type="string"/>

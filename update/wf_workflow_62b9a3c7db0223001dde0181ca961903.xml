@@ -248,15 +248,15 @@ workflow.scratchpad.getlbexecutionId = responsebody.executionId;&#13;
     </wf_activity>
     <sys_variable_value action="delete_multiple" query="document_key=62b9a3c7db0223001dde0181ca961905"/>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Get Available LB">993fa74bdb0223001dde0181ca96194c</activity_definition>
-        <activity_definition_updated>false</activity_definition_updated>
+        <activity_definition display_value="Get Available LB">d5877b03db4223001dde0181ca96193a</activity_definition>
+        <activity_definition_updated>true</activity_definition_updated>
         <databus_lookup_id>3</databus_lookup_id>
         <height/>
         <input>{}</input>
         <is_parent>false</is_parent>
         <name>Get Lb Rest API</name>
         <new_activity_definition/>
-        <notes/>
+        <notes>This activity was updated to a newer version since the workflow was published.</notes>
         <out_of_date>false</out_of_date>
         <parent/>
         <pinned>false</pinned>
@@ -265,9 +265,9 @@ workflow.scratchpad.getlbexecutionId = responsebody.executionId;&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-03 05:25:55</sys_created_on>
         <sys_id>29f96fc7db0223001dde0181ca96190f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-03 05:48:36</sys_updated_on>
+        <sys_updated_on>2018-12-04 11:50:34</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>
