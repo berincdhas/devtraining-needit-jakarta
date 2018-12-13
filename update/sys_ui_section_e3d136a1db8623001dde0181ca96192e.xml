@@ -5,13 +5,13 @@
             <element>totalnodes</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca961945</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>7b719b56db52a3001dde0181ca961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>tshirtsize</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca961945</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>fb719b56db52a3001dde0181ca961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>vcenterhost</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>7f719b56db52a3001dde0181ca961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>vmcontrollertype</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>ff719b56db52a3001dde0181ca961944</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>vmdatacenter</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>26d3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>73719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>vmid</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>a6d3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>f3719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>77719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>vminstanceuuid</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>f7719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>vrcsm</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>7b719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>cisupporttier</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca961946</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>fb719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>vmpathname</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca961947</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>7f719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,27 @@
             <element>vmportgroup1</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:25</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca961947</sys_id>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>ff719b56db52a3001dde0181ca961945</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>clustername</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 05:59:04</sys_created_on>
+            <sys_id>73719b56db52a3001dde0181ca961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">e3d136a1db8623001dde0181ca96192e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 05:59:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

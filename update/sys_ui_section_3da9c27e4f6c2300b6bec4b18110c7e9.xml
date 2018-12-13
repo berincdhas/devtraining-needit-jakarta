@@ -1,1643 +1,904 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="3da9c27e4f6c2300b6bec4b18110c7e9" sys_domain="global" table="x_58872_needit_uvcore_lb" version="3" view="">
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>e94f28e2db2563001dde0181ca961927</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <text>Link to Service Catalogue &lt;a href = "https://dev70188.service-now.com/nav_to.do?uri=%2Fcom.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3Dd920151a4fd06700b6bec4b18110c705%26sysparm_link_parent%3D1fe5f7754fc71300b6bec4b18110c7c4%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default" target ="_blank"&gt;MSV&lt;/a&gt;</text>
-            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
-        </sys_ui_annotation>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca961927</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>customer</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sraenvironment</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>domainnumber</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hardwaretype</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostenvironment</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>osname</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>siteid</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>disk0sizegb</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca961928</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>disk0storagetier</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>disksallowed</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>function</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hardwarepreset</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servercount</element>
-            <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>backuptype</element>
-            <position>14</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>lbrequireha</element>
-            <position>15</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>managedby</element>
-            <position>16</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca961929</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>extref</element>
-            <position>17</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>portalootype</element>
-            <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>reference</element>
-            <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servicerequestid</element>
-            <position>20</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscriptionemail</element>
-            <position>21</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscriptionid</element>
-            <position>22</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requestupdated</element>
-            <position>23</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscriptionname</element>
-            <position>24</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca96192a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
+    <sys_ui_section caption="LB VIP details" section_id="3da9c27e4f6c2300b6bec4b18110c7e9" sys_domain="global" table="x_58872_needit_uvcore_lb" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1</element>
-            <position>25</position>
+            <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1appname</element>
-            <position>26</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1url</element>
-            <position>27</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca961919</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1method</element>
-            <position>28</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1mode</element>
-            <position>29</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1port</element>
-            <position>30</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip1securitytagname</element>
-            <position>31</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2</element>
-            <position>32</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca96192b</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2appname</element>
-            <position>33</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2mode</element>
-            <position>34</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2url</element>
-            <position>35</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca96191a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2method</element>
-            <position>36</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2port</element>
-            <position>37</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip2securitytagname</element>
-            <position>38</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3</element>
-            <position>39</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3appname</element>
-            <position>40</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca96192c</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3method</element>
-            <position>41</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3mode</element>
-            <position>42</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3port</element>
-            <position>43</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca96191b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3securitytagname</element>
-            <position>44</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>45</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca96192d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip3url</element>
-            <position>46</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4</element>
-            <position>47</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4appname</element>
-            <position>48</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca96192d</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4mode</element>
-            <position>49</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4port</element>
-            <position>50</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4url</element>
-            <position>51</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4method</element>
-            <position>52</position>
+            <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca96191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip4securitytagname</element>
-            <position>53</position>
+            <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip5</element>
-            <position>54</position>
+            <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip5appname</element>
-            <position>55</position>
+            <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip5method</element>
-            <position>56</position>
+            <position>30</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip5mode</element>
-            <position>57</position>
+            <position>31</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>lbvip5port</element>
-            <position>58</position>
+            <element>.split</element>
+            <position>32</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lbvip5port</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip5securitytagname</element>
-            <position>59</position>
+            <position>34</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca96191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip5url</element>
-            <position>60</position>
+            <position>35</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip6</element>
-            <position>61</position>
+            <position>36</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip6appname</element>
-            <position>62</position>
+            <position>37</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip6mode</element>
-            <position>63</position>
+            <position>38</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip6port</element>
-            <position>64</position>
+            <position>39</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip6url</element>
-            <position>65</position>
+            <position>40</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>lbvip6method</element>
-            <position>66</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip6securitytagname</element>
-            <position>67</position>
+            <position>41</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca96191e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lbvip6method</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7</element>
-            <position>68</position>
+            <position>43</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7appname</element>
-            <position>69</position>
+            <position>44</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7method</element>
-            <position>70</position>
+            <position>45</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7mode</element>
-            <position>71</position>
+            <position>46</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7port</element>
-            <position>72</position>
+            <position>47</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7url</element>
-            <position>73</position>
+            <position>48</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip7securitytagname</element>
-            <position>74</position>
+            <position>49</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8</element>
-            <position>75</position>
+            <position>50</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8appname</element>
-            <position>76</position>
+            <position>51</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8mode</element>
-            <position>77</position>
+            <position>52</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8url</element>
-            <position>78</position>
+            <position>53</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8method</element>
-            <position>79</position>
+            <position>54</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8port</element>
-            <position>80</position>
+            <position>55</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca961931</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip8securitytagname</element>
-            <position>81</position>
+            <position>56</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b92ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9</element>
-            <position>82</position>
+            <position>57</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>3d2ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9appname</element>
-            <position>83</position>
+            <position>58</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>bd2ad39adb52a3001dde0181ca961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9mode</element>
-            <position>84</position>
+            <position>59</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>312ad39adb52a3001dde0181ca961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9port</element>
-            <position>85</position>
+            <position>60</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b12ad39adb52a3001dde0181ca961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9url</element>
-            <position>86</position>
+            <position>61</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a94f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>352ad39adb52a3001dde0181ca961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9method</element>
-            <position>87</position>
+            <position>62</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>2d4f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>b52ad39adb52a3001dde0181ca961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>lbvip9securitytagname</element>
-            <position>88</position>
+            <position>63</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>ad4f28e2db2563001dde0181ca961932</sys_id>
+            <sys_created_on>2018-12-13 06:36:53</sys_created_on>
+            <sys_id>392ad39adb52a3001dde0181ca961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
+            <sys_ui_section caption="LB VIP details" display_value="LB VIP details" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>e94f28e2db2563001dde0181ca961927</element>
-            <position>89</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>214f28e2db2563001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>90</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a14f28e2db2563001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
-            <position>91</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>254f28e2db2563001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
-            <position>92</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>a54f28e2db2563001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostname_lc</element>
-            <position>93</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-06 06:01:41</sys_created_on>
-            <sys_id>294f28e2db2563001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-06 06:01:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscriptiondescription</element>
-            <position>94</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-16 06:40:21</sys_created_on>
-            <sys_id>6d08d4f9dbfd23001dde0181ca9619db</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-16 06:40:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>actiontaken</element>
-            <position>95</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-23 06:27:50</sys_created_on>
-            <sys_id>9a4858c4dbcea3001dde0181ca9619e7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-23 06:27:50</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscription_status</element>
-            <position>96</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-23 06:55:04</sys_created_on>
-            <sys_id>518e1cc8dbcea3001dde0181ca961958</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-23 06:55:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciimpact</element>
-            <position>97</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:32:21</sys_created_on>
-            <sys_id>bad29775dbce23001dde0181ca9619b9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:32:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciisvirtual</element>
-            <position>98</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:32:44</sys_created_on>
-            <sys_id>64f2df75dbce23001dde0181ca9619b4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:32:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cimanufacturer</element>
-            <position>99</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:33:10</sys_created_on>
-            <sys_id>0703df75dbce23001dde0181ca96193d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:33:10</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciparenttype</element>
-            <position>100</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:33:41</sys_created_on>
-            <sys_id>9623d3b5dbce23001dde0181ca961971</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:33:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciremoteconsole</element>
-            <position>101</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:34:09</sys_created_on>
-            <sys_id>014317b5dbce23001dde0181ca96190b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:34:09</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cisupporttier</element>
-            <position>102</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:34:34</sys_created_on>
-            <sys_id>1b53d7b5dbce23001dde0181ca96197a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:34:34</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cisystemmodel</element>
-            <position>103</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:34:57</sys_created_on>
-            <sys_id>497313b5dbce23001dde0181ca961997</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:34:57</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>civirtualizationrole</element>
-            <position>104</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:35:22</sys_created_on>
-            <sys_id>478357b5dbce23001dde0181ca961935</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:35:22</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>civirtualtechnology</element>
-            <position>105</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:35:42</sys_created_on>
-            <sys_id>44a3d3b5dbce23001dde0181ca961913</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:35:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sitedescription</element>
-            <position>106</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 09:51:54</sys_created_on>
-            <sys_id>02804ccedb0263001dde0181ca961908</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 09:51:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>joindomain</element>
-            <position>107</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 09:55:15</sys_created_on>
-            <sys_id>4741c802db4263001dde0181ca96194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 09:55:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>price</element>
-            <position>108</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-03 12:16:33</sys_created_on>
-            <sys_id>8c08055fdbc223001dde0181ca96196c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-03 12:16:33</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>decommision_date</element>
-            <position>109</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:17:08</sys_created_on>
-            <sys_id>ac46b167db4e23001dde0181ca9619e3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:17:08</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>mark_for_delete</element>
-            <position>110</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:20:12</sys_created_on>
-            <sys_id>e5f6f967db4e23001dde0181ca9619f0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:20:12</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>localadminusr</element>
-            <position>111</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:59:38</sys_created_on>
-            <sys_id>0fff7dabdb4e23001dde0181ca961960</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:59:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>localadminpwd</element>
-            <position>112</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 11:00:08</sys_created_on>
-            <sys_id>16108eabdb4e23001dde0181ca9619d6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 11:00:08</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servercustusername</element>
-            <position>113</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 11:00:42</sys_created_on>
-            <sys_id>a230c2ebdb4e23001dde0181ca961943</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 11:00:42</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servercustpassword</element>
-            <position>114</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 11:01:12</sys_created_on>
-            <sys_id>ca5086ebdb4e23001dde0181ca9619d4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 11:01:12</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>mark_delete</element>
-            <position>115</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-10 08:44:12</sys_created_on>
-            <sys_id>f58a5c69dbd223001dde0181ca961966</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_uvcore_lb" sys_domain="global" view="Default view">3da9c27e4f6c2300b6bec4b18110c7e9</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-10 08:44:12</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:36:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>LB VIP details</caption>
             <header>false</header>
             <name>x_58872_needit_uvcore_lb</name>
             <roles/>
@@ -1647,15 +908,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3da9c27e4f6c2300b6bec4b18110c7e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_58872_needit_uvcore_lb</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>LB VIP details</sys_name>
             <sys_overrides/>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_ui_section_3da9c27e4f6c2300b6bec4b18110c7e9</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-18 14:12:15</sys_updated_on>
+            <sys_updated_on>2018-12-13 06:35:52</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

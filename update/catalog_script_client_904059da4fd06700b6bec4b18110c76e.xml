@@ -115,7 +115,7 @@
 		g_form.setDisplay('osPatchDay',true);
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
-		g_form.setDisplay('subscriptionDiscription',true);
+		g_form.setDisplay('subscriptionDescription',true);
 		//g_form.setDisplay('backupType',true);
 		//g_form.setDisplay('backupMethod',true);
 		//g_form.setDisplay('backupPolicy',true);
@@ -225,7 +225,7 @@
 		g_form.setDisplay('osPatchDay',true);
 		g_form.setDisplay('osPatchTime',true);
 		g_form.setDisplay('PrivilagedUser',true);
-		g_form.setDisplay('subscriptionDiscription',true);
+		g_form.setDisplay('subscriptionDescription',true);
 		//g_form.setDisplay('backupType',true);
 		//g_form.setDisplay('backupMethod',true);
 		//g_form.setDisplay('backupPolicy',true);
@@ -316,7 +316,7 @@
 		g_form.setDisplay('osPatchDay',false);
 		g_form.setDisplay('osPatchTime',false);
 		g_form.setDisplay('PrivilagedUser',false);
-		g_form.setDisplay('subscriptionDiscription',false);
+		g_form.setDisplay('subscriptionDescription',false);
 		//g_form.setDisplay('backupType',false);
 		//g_form.setDisplay('backupMethod',false);
 		//g_form.setDisplay('backupPolicy',false);
@@ -411,7 +411,7 @@
 		g_form.setDisplay('osPatchDay',false);
 		g_form.setDisplay('osPatchTime',false);
 		g_form.setDisplay('PrivilagedUser',false);
-		g_form.setDisplay('subscriptionDiscription',false);
+		g_form.setDisplay('subscriptionDescription',false);
 		//g_form.setDisplay('backupType',false);
 		//g_form.setDisplay('backupMethod',false);
 		//g_form.setDisplay('backupPolicy',false);
@@ -438,7 +438,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>904059da4fd06700b6bec4b18110c76e</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Manage fields based on Phase</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -446,7 +446,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>catalog_script_client_904059da4fd06700b6bec4b18110c76e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-06 09:04:21</sys_updated_on>
+        <sys_updated_on>2018-12-12 05:40:50</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>

@@ -5,13 +5,13 @@
             <element>active</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>b3719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>37719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,783 +33,293 @@
             <element>billingcode</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca96192e</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>b7719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>clustername</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca96192e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>customer</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>3b719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>deploystartdatetime</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>bb719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>guestfullname</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>26d3f6e1db8623001dde0181ca96192f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>guestid</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a6d3f6e1db8623001dde0181ca96192f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hardwarepreset</element>
-            <position>8</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>3f719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hostenvironment</element>
-            <position>9</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca96192f</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>bf719b56db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostname_dns</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca96192f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostname_fqdn</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca96192f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hostname_lc</element>
-            <position>12</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>33719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostname_phys</element>
-            <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostname_uc</element>
-            <position>14</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>26d3f6e1db8623001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>domainnumber</element>
-            <position>15</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a6d3f6e1db8623001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>subscriptiondescription</element>
-            <position>16</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca961930</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>b3719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sra_environment</element>
-            <position>17</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscription_status</element>
-            <position>18</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca961930</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hostname_vm</element>
-            <position>20</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ipaddress1</element>
-            <position>21</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ipgateway1</element>
-            <position>22</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>26d3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ipnetmask1</element>
-            <position>23</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a6d3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>iscluster</element>
-            <position>24</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>isvirtual</element>
-            <position>25</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>joindomain</element>
-            <position>26</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>managedby</element>
-            <position>27</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>nodenumber</element>
-            <position>28</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>offeringname</element>
-            <position>29</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>powerstate</element>
-            <position>30</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>26d3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>reference</element>
-            <position>31</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a6d3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>secondarydc</element>
-            <position>32</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>serialnumber</element>
-            <position>33</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servertype</element>
-            <position>34</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ed3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>service_request_id</element>
-            <position>35</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aed3f6e1db8623001dde0181ca961932</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>shortdomain</element>
-            <position>36</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>22d3f6e1db8623001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sitedescription</element>
-            <position>37</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a2d3f6e1db8623001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>siteid</element>
-            <position>38</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>26d3f6e1db8623001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>snapshotlist</element>
-            <position>39</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>a6d3f6e1db8623001dde0181ca961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>subscriptionid</element>
-            <position>40</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>2ad3f6e1db8623001dde0181ca961933</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>37719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>subscriptionname</element>
-            <position>41</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-28 09:38:24</sys_created_on>
-            <sys_id>aad3f6e1db8623001dde0181ca961933</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>b7719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-28 09:38:24</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciimpact</element>
-            <position>42</position>
+            <element>.split</element>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:27:32</sys_created_on>
-            <sys_id>94c11f35dbce23001dde0181ca961945</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>3b719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:27:32</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>joindomain</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>bb719b56db52a3001dde0181ca961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciisvirtual</element>
-            <position>43</position>
+            <element>managedby</element>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:28:15</sys_created_on>
-            <sys_id>fae19bb1dbce23001dde0181ca9619d2</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>3f719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:28:15</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cimanufacturer</element>
-            <position>44</position>
+            <element>powerstate</element>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:28:47</sys_created_on>
-            <sys_id>7e025f35dbce23001dde0181ca9619a7</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>bf719b56db52a3001dde0181ca961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:28:47</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciparenttype</element>
-            <position>45</position>
+            <element>reference</element>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:29:11</sys_created_on>
-            <sys_id>e4229375dbce23001dde0181ca9619d4</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>33719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:29:11</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ciremoteconsole</element>
-            <position>46</position>
+            <element>serialnumber</element>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:29:35</sys_created_on>
-            <sys_id>96321775dbce23001dde0181ca9619ab</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>b3719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:29:35</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cisystemmodel</element>
-            <position>47</position>
+            <element>service_request_id</element>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:30:03</sys_created_on>
-            <sys_id>1d525775dbce23001dde0181ca961956</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>37719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:30:03</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>civirtualizationrole</element>
-            <position>48</position>
+            <element>sitedescription</element>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:30:23</sys_created_on>
-            <sys_id>4a62d775dbce23001dde0181ca961939</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>b7719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:30:23</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>civirtualtechnology</element>
-            <position>49</position>
+            <element>siteid</element>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-29 06:30:45</sys_created_on>
-            <sys_id>5b721b75dbce23001dde0181ca9619ac</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>3b719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-29 06:30:45</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>decommision_date</element>
-            <position>50</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:16:16</sys_created_on>
-            <sys_id>c0167d27db4e23001dde0181ca96198a</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>bb719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:16:16</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>mark_for_delete</element>
-            <position>51</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:17:56</sys_created_on>
-            <sys_id>0076b167db4e23001dde0181ca96197b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:17:56</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servercustusername</element>
-            <position>52</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:57:55</sys_created_on>
-            <sys_id>7d9f39abdb4e23001dde0181ca961971</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:57:55</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>servercustpassword</element>
-            <position>53</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:58:18</sys_created_on>
-            <sys_id>e7af31abdb4e23001dde0181ca961913</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:58:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>localadminusr</element>
-            <position>54</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:58:44</sys_created_on>
-            <sys_id>fdcf39abdb4e23001dde0181ca961985</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:58:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>localadminpwd</element>
-            <position>55</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-04 10:59:04</sys_created_on>
-            <sys_id>f2df79abdb4e23001dde0181ca961958</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-04 10:59:04</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>price</element>
-            <position>56</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-06 08:03:25</sys_created_on>
-            <sys_id>dddaefc8db12a3001dde0181ca9619eb</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>3f719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-06 08:03:25</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mark_delete</element>
-            <position>57</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-12-10 08:45:08</sys_created_on>
-            <sys_id>93badc69dbd223001dde0181ca961914</sys_id>
+            <sys_created_on>2018-12-13 05:59:03</sys_created_on>
+            <sys_id>bf719b56db52a3001dde0181ca961934</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_middleware_server" sys_domain="global" view="Default view">27d1b2a1db8623001dde0181ca961961</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-12-10 08:45:08</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:59:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

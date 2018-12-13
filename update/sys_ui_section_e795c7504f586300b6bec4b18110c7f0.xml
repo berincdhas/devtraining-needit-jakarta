@@ -5,13 +5,13 @@
             <element>clustername</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>80a54b504f586300b6bec4b18110c71b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>6bce0716db52a3001dde0181ca96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">e795c7504f586300b6bec4b18110c7f0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>diskcount</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>04a54b504f586300b6bec4b18110c71b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>ebce0716db52a3001dde0181ca96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">e795c7504f586300b6bec4b18110c7f0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>84a54b504f586300b6bec4b18110c71b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>6fce0716db52a3001dde0181ca96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">e795c7504f586300b6bec4b18110c7f0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,13 +47,41 @@
             <element>disk0datastore</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>08a54b504f586300b6bec4b18110c71b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>efce0716db52a3001dde0181ca96194e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">e795c7504f586300b6bec4b18110c7f0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outageday</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>63ce0716db52a3001dde0181ca96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">e795c7504f586300b6bec4b18110c7f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outagewindow</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>e3ce0716db52a3001dde0181ca96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Other" display_value="Other" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">e795c7504f586300b6bec4b18110c7f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

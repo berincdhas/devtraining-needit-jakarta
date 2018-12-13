@@ -5,13 +5,13 @@
             <element>nic0connection</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>80a54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>27ce0716db52a3001dde0181ca96192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>nic1connection</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>04a54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>a7ce0716db52a3001dde0181ca96192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>nic3connection</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>84a54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>2bce0716db52a3001dde0181ca96192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>nic2connection</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>08a54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>abce0716db52a3001dde0181ca96192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>nic4connection</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>88a54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>2fce0716db52a3001dde0181ca96192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>nic5connection</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>0ca54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>afce0716db52a3001dde0181ca96192f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>nic6connection</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>8ca54b504f586300b6bec4b18110c70a</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>23ce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>nic7connection</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>00a54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>a3ce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>nic8connection</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>80a54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>27ce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>nic9connection</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>04a54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>a7ce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>ospatchtime</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>84a54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>2bce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,265 +159,195 @@
             <element>ospatchday</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>08a54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>abce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>enablefirewall</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>88a54b504f586300b6bec4b18110c70b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>13</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>0ca54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>2fce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>nic1role</element>
-            <position>14</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>8ca54b504f586300b6bec4b18110c70b</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>afce0716db52a3001dde0181ca961930</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>primarydns</element>
-            <position>15</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>00a54b504f586300b6bec4b18110c70c</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>23ce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>secondarydns</element>
-            <position>16</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>80a54b504f586300b6bec4b18110c70c</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>a3ce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>securityzone</element>
-            <position>17</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>04a54b504f586300b6bec4b18110c70c</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>27ce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>enablesrm</element>
-            <position>18</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>84a54b504f586300b6bec4b18110c70c</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>a7ce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vmnsxsectag1</element>
-            <position>19</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>08a54b504f586300b6bec4b18110c70c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vmnsxsectag2</element>
-            <position>20</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>88a54b504f586300b6bec4b18110c70c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vmnsxsectag3</element>
-            <position>21</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>0ca54b504f586300b6bec4b18110c70c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vmnsxsectag4</element>
-            <position>22</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>8ca54b504f586300b6bec4b18110c70c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>associatedlb</element>
-            <position>23</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>00a54b504f586300b6bec4b18110c70d</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>2bce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>businessinformation</element>
-            <position>24</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>80a54b504f586300b6bec4b18110c70d</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>abce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subscriptiondiscription</element>
-            <position>25</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>04a54b504f586300b6bec4b18110c70d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>privilageduser</element>
-            <position>26</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>84a54b504f586300b6bec4b18110c70d</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>2fce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tags</element>
-            <position>27</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>08a54b504f586300b6bec4b18110c70d</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>afce0716db52a3001dde0181ca961931</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>niccount</element>
-            <position>28</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>88a54b504f586300b6bec4b18110c70d</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>23ce0716db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hostname_dns</element>
-            <position>29</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-29 13:53:46</sys_created_on>
-            <sys_id>0ca54b504f586300b6bec4b18110c70d</sys_id>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>a3ce0716db52a3001dde0181ca961932</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-29 13:53:46</sys_updated_on>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enablefirewall</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 05:47:18</sys_created_on>
+            <sys_id>27ce0716db52a3001dde0181ca961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Network Info" display_value="Network Info" name="x_58872_needit_uvcore_server" sys_domain="global" view="Default view">6f95c7504f586300b6bec4b18110c7ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 05:47:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

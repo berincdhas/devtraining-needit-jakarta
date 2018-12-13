@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="ccbe9b1edb52a3001dde0181ca9619a4" sys_domain="global" table="x_58872_needit_uvcore_physical_server" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8be9b1edb52a3001dde0181ca9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">0cbe1b1edb52a3001dde0181ca961953</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84be9b1edb52a3001dde0181ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Last Action" display_value="Last Action" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">b3f907abdb35a3001dde0181ca96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cbe9b1edb52a3001dde0181ca9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="CI Details" display_value="CI Details" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">c4be9b1edb52a3001dde0181ca9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4be9b1edb52a3001dde0181ca9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Backup Details" display_value="Backup Details" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">8cbe9b1edb52a3001dde0181ca9619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08be9b1edb52a3001dde0181ca9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Hardware Information" display_value="Hardware Information" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">84be9b1edb52a3001dde0181ca9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccbe9b1edb52a3001dde0181ca9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Network Information" display_value="Network Information" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">4cbe9b1edb52a3001dde0181ca9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0be9b1edb52a3001dde0181ca9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="OS Details" display_value="OS Details" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">44be9b1edb52a3001dde0181ca9619a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84be9b1edb52a3001dde0181ca9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Credentials" display_value="Credentials" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">0cbe9b1edb52a3001dde0181ca9619a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dcbe9b1edb52a3001dde0181ca9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_uvcore_physical_server" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">ccbe9b1edb52a3001dde0181ca9619a4</sys_ui_form>
+            <sys_ui_section caption="Others" display_value="Others" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">c0be9b1edb52a3001dde0181ca9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_58872_needit_uvcore_physical_server</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 06:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccbe9b1edb52a3001dde0181ca9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_uvcore_physical_server</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ccbe9b1edb52a3001dde0181ca9619a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 06:56:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
