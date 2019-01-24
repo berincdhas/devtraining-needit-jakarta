@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="MSV Managed VMware VM V1.0">7d3cb5eddbb223001dde0181ca9619fd</catalog_item>
+        <catalog_item display_value="MSV Managed VMware VM V1.0_NV">7d3cb5eddbb223001dde0181ca9619fd</catalog_item>
         <catalog_variable>IO:8e3cfdeddbb223001dde0181ca96194d</catalog_variable>
         <disabled>false</disabled>
         <field/>

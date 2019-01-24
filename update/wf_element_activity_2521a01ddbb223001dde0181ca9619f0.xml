@@ -5,19 +5,19 @@
         <attributes/>
         <base_provider display_value="REST Web Service">8817a25e37222100aa40cc9fbe41f106</base_provider>
         <category/>
-        <checked_out_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</checked_out_by>
+        <checked_out_by/>
         <default_height/>
         <default_width/>
         <description/>
         <image>images/heisenberg_icons/workflow_ie8/provider_rest.png</image>
         <input_meta>{"name":"Input","type":"DATA_OBJECT","properties":[{"name":"reference","type":"STRING","mandatory":false},{"name":"type","type":"STRING","mandatory":false},{"name":"task","type":"STRING","mandatory":false}]}</input_meta>
         <input_process_script/>
-        <input_transform>{"web_service_message":"c9db1916db0e63001dde0181ca96199f","web_service_message_function":"df3380f8dbea23001dde0181ca9619cf","web_service_endpoint":"","parameters":"[{\"name\":\"reference\",\"value\":\"${activityInput.reference}\",\"additional_attribute\":\"\"},{\"name\":\"type\",\"value\":\"${activityInput.type}\",\"additional_attribute\":\"\"},{\"name\":\"task\",\"value\":\"${activityInput.task}\",\"additional_attribute\":\"\"}]","headers":"[]","queryParameters":"[]","midCapabilities":"18409d8007482000dada43c0d1021e8f","use_mid_server":"false","time_out":"10","auth_type":"use_existing_credentials","credentials":"","protocol_profile":"","oauth_entity_profile":""}</input_transform>
+        <input_transform>{"web_service_message":"c9db1916db0e63001dde0181ca96199f","web_service_message_function":"df3380f8dbea23001dde0181ca9619cf","web_service_endpoint":"","parameters":"[{\"name\":\"reference\",\"value\":\"${activityInput.reference}\",\"additional_attribute\":\"\"},{\"name\":\"type\",\"value\":\"${activityInput.type}\",\"additional_attribute\":\"\"},{\"name\":\"task\",\"value\":\"${activityInput.task}\",\"additional_attribute\":\"\"}]","headers":"[]","queryParameters":"[]","midCapabilities":"18409d8007482000dada43c0d1021e8f","use_mid_server":"true","time_out":"300","auth_type":"use_existing_credentials","credentials":"","protocol_profile":"","oauth_entity_profile":""}</input_transform>
         <local_variables/>
         <name>POST_RUN_ACTION_VM</name>
-        <output_meta>{"name":"Output","type":"DATA_OBJECT","properties":[{"name":"status_code","type":"INTEGER"},{"name":"header","type":"DATA_OBJECT","properties":[{"name":"body","type":"STRING"},{"name":"error","type":"STRING"}]},{"name":"output","type":"DATA_OBJECT","properties":[{"name":"jobID","type":"INTEGER"}]}]}</output_meta>
+        <output_meta>{"name":"Output","type":"DATA_OBJECT","properties":[{"name":"status_code","type":"INTEGER"},{"name":"output","type":"DATA_OBJECT","properties":[{"name":"jobID","type":"INTEGER"}]}]}</output_meta>
         <output_process_script/>
-        <output_transform>[{"toLink":"activityOutput.status_code","description":"","to":"status_code","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.status_code","from":"${executionResult.status_code}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""},{"toLink":"activityOutput.header","description":"","to":"header","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"JSON","children":"[]","translation":"$"},{"toLink":"activityOutput.header.body","description":"","to":"header.body","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""},{"toLink":"activityOutput.header.error","description":"","to":"header.error","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""},{"toLink":"activityOutput.output","description":"","to":"output","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""},{"toLink":"activityOutput.output.jobID","description":"","to":"output.jobID","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""}]</output_transform>
+        <output_transform>[{"toLink":"activityOutput.status_code","description":"","to":"status_code","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.status_code","from":"${executionResult.status_code}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""},{"toLink":"activityOutput.output","description":"","to":"output","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"JSON","children":"[]","translation":"$"},{"toLink":"activityOutput.output.jobID","description":"","to":"output.jobID","toType":"string","toDestination":"activityOutput","sourceLabel":"executionResult.body","from":"${executionResult.body}","fromSource":"executionResult","type":"Direct","children":"[]","translation":""}]</output_transform>
         <processing_script/>
         <sample_payloads>{}</sample_payloads>
         <short_description>API Custom Activity</short_description>
@@ -26,33 +26,52 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-03 11:06:44</sys_created_on>
         <sys_id>2521a01ddbb223001dde0181ca9619f0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>POST_RUN_ACTION_VM</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>wf_element_activity_2521a01ddbb223001dde0181ca9619f0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-07 09:03:23</sys_updated_on>
+        <sys_updated_on>2019-01-16 07:12:00</sys_updated_on>
         <version_container_id>e741601ddbb223001dde0181ca9619b7</version_container_id>
     </wf_element_activity>
     <sys_translated_text action="delete_multiple" query="documentkey=2521a01ddbb223001dde0181ca9619f0"/>
     <wf_versionable action="INSERT_OR_UPDATE">
-        <checked_out>2019-01-03 11:06:44</checked_out>
-        <checked_out_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</checked_out_by>
-        <published>false</published>
+        <checked_out/>
+        <checked_out_by/>
+        <published>true</published>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-03 11:06:44</sys_created_on>
         <sys_id>af41601ddbb223001dde0181ca9619b7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-03 11:06:44</sys_updated_on>
-        <valid_from/>
+        <sys_updated_on>2019-01-16 07:12:00</sys_updated_on>
+        <valid_from>2019-01-16 07:12:00</valid_from>
         <valid_to/>
         <version>1</version>
         <version_container_id>e741601ddbb223001dde0181ca9619b7</version_container_id>
         <wf_element_definition display_value="POST_RUN_ACTION_VM">2521a01ddbb223001dde0181ca9619f0</wf_element_definition>
     </wf_versionable>
+    <wf_condition_default action="INSERT_OR_UPDATE">
+        <activity_definition display_value="POST_RUN_ACTION_VM">2521a01ddbb223001dde0181ca9619f0</activity_definition>
+        <condition/>
+        <derived_definition/>
+        <else_flag>false</else_flag>
+        <error>false</error>
+        <event>false</event>
+        <event_name/>
+        <name>Error</name>
+        <order>300</order>
+        <short_description/>
+        <skip_during_generate>false</skip_during_generate>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-10 10:05:49</sys_created_on>
+        <sys_id>8256d0e3dbf663001dde0181ca9619dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-10 10:06:09</sys_updated_on>
+    </wf_condition_default>
     <wf_condition_default action="INSERT_OR_UPDATE">
         <activity_definition display_value="POST_RUN_ACTION_VM">2521a01ddbb223001dde0181ca9619f0</activity_definition>
         <condition>activityOutput.status_code != 200</condition>

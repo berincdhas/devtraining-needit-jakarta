@@ -407,6 +407,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>deployenddatetime</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-10 10:20:47</sys_created_on>
+            <sys_id>2ee914e7dbf663001dde0181ca96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Primary" display_value="Primary" name="x_58872_needit_uvcore_physical_server" sys_domain="global" view="Default view">0cbe1b1edb52a3001dde0181ca961953</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-10 10:20:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Primary</caption>
             <header>false</header>

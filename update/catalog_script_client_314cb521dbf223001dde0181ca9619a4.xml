@@ -8,7 +8,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="MSV Managed VMware VM V1.0">7d3cb5eddbb223001dde0181ca9619fd</cat_item>
+        <cat_item display_value="MSV Managed VMware VM V1.0_NV">7d3cb5eddbb223001dde0181ca9619fd</cat_item>
         <cat_variable>IO:ca3cfdeddbb223001dde0181ca96196c</cat_variable>
         <condition/>
         <description/>

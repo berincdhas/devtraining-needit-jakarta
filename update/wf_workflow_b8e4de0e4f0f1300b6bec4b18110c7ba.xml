@@ -2069,7 +2069,7 @@ and select 'Update activity' to use the latest version, then publish the workflo
         <input>{"OOserver":"110.110.110.27","Port":"8443","Protocol":"https","reference":"23534a464f0f1300b6bec4b18110c7b5","CSRF":""}</input>
         <is_parent>false</is_parent>
         <name>GET VM INFO</name>
-        <new_activity_definition display_value="uvCore_POST_Get_VM_INFO">2207ef47db0223001dde0181ca9619a6</new_activity_definition>
+        <new_activity_definition display_value="uvCore_POST_Get_VM_INFO">9d166a7adbf223001dde0181ca9619da</new_activity_definition>
         <notes>There is a newer version of this activity.
 
 To update the activity, check out the workflow, select the activity, right click
@@ -2082,9 +2082,9 @@ and select 'Update activity' to use the latest version, then publish the workflo
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-04 04:03:26</sys_created_on>
         <sys_id>327520564f435300b6bec4b18110c7fd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-03 05:21:14</sys_updated_on>
+        <sys_updated_on>2019-01-08 12:38:00</sys_updated_on>
         <timeout>1970-01-01 00:00:00</timeout>
         <vars/>
         <width/>

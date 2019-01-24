@@ -16,6 +16,7 @@
         <element label="CIVirtualTechnology" max_length="40" name="civirtualtechnology" type="string"/>
         <element label="CUSTOMER" max_length="40" name="customer" type="string"/>
         <element label="Decommision Date" max_length="50" name="decommision_date" type="string"/>
+        <element label="DeployEndDateTime" max_length="40" name="deployenddatetime" type="string"/>
         <element label="disk0SizeGB" max_length="40" name="disk0sizegb" type="string"/>
         <element label="disk0StorageTier" max_length="40" name="disk0storagetier" type="string"/>
         <element label="disksAllowed" max_length="40" name="disksallowed" type="string"/>
