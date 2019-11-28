@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_rest_message_fn">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
     <sys_rest_message_fn action="INSERT_OR_UPDATE">
         <authentication_type>inherit_from_parent</authentication_type>
         <basic_auth_password/>
@@ -105,7 +104,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-01-17 06:28:15</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="usplmid1001">83a391a2db1123001dde0181ca9619a4</use_mid_server>
+        <use_mid_server display_value="">83a391a2db1123001dde0181ca9619a4</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>

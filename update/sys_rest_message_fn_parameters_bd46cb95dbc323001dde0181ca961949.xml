@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_rest_message_fn_parameters">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
     <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
         <name>lbVIP1Port</name>
         <rest_message_function display_value="uvCore_POST_Deploy_LB">1bf50b95dbc323001dde0181ca961924</rest_message_function>

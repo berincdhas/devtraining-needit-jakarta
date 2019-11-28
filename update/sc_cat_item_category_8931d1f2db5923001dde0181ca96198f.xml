@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="MSV CM VM Base">f431ddb2db5923001dde0181ca9619a5</sc_cat_item>
         <sc_category display_value="MSV Servers">1fe5f7754fc71300b6bec4b18110c7c4</sc_category>

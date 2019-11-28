@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="gsw_change_log">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2019-01-23 01:05:20</change_date>
         <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
-        <content display_value="Secure Communications">5876b76311632200964f016bcc1bdd07</content>
+        <content display_value="">5876b76311632200964f016bcc1bdd07</content>
         <related_change_log_entry display_value="2019-01-22 17:05:20">057711a7db0763001dde0181ca96195a</related_change_log_entry>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

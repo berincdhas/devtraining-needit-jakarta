@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="3 - tier ( Web + App + DB)">82495fafdbc763001dde0181ca961959</catalog_item>
         <catalog_variable>IO:12495ba7db0b63001dde0181ca961984</catalog_variable>
+        <cleared>false</cleared>
         <disabled>true</disabled>
         <field/>
         <mandatory>false</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-23 17:00:29</sys_created_on>

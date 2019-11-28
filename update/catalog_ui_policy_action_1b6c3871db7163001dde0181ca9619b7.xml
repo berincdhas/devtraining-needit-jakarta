@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="MSV Middleware Oracle V1.0_NV">3a5cf0bddb3163001dde0181ca9619b3</catalog_item>
         <catalog_variable>IO:c35c7071db7163001dde0181ca961928</catalog_variable>
+        <cleared>false</cleared>
         <disabled>false</disabled>
         <field/>
         <mandatory>false</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-16 09:19:24</sys_created_on>

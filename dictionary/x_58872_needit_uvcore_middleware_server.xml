@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="uvcore_middleware_server" max_length="40" name="x_58872_needit_uvcore_middleware_server" type="collection">
         <element label="ActionTaken" max_length="100" name="actiontaken" type="string"/>
         <element label="Active" max_length="40" name="active" type="boolean"/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="sys_import_set_row" label="import_uvCore_server" max_length="40" name="x_58872_needit_import_uvcore_server" type="collection">
         <element attributes="import_attribute_name=actiontaken,edge_encryption_enabled=true" label="actiontaken" max_length="51" name="u_actiontaken" type="string"/>
         <element attributes="import_attribute_name=assigned_to,edge_encryption_enabled=true" label="assigned_to" max_length="40" name="u_assigned_to" type="string"/>

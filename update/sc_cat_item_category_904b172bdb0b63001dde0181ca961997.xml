@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_cat_item_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="3 - tier ( Web + App + DB)">82495fafdbc763001dde0181ca961959</sc_cat_item>
         <sc_category display_value="MSV Servers(Simplified)">b9d95be7db0b63001dde0181ca961953</sc_category>

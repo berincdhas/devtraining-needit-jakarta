@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="nic2connection" label="NIC2Connection" language="en" table="x_58872_needit_uvcore_middleware_server">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>nic2connection</element>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-11-20 06:24:39</sys_created_on>
-            <sys_id>eeca300fdbfd23001dde0181ca96199f</sys_id>
+            <sys_id>ff9b907adb55001049e99235ca9619c0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>NIC2Connection</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>

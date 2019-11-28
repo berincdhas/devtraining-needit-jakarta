@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="ecc_agent_ip_range">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_ip_range">
     <ecc_agent_ip_range action="INSERT_OR_UPDATE">
         <name>192.168.38.0/24</name>
         <range>192.168.38.0/24</range>

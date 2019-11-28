@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="lbvip2securitytagname" label="lbVIP2SecurityTagName" language="en" table="x_58872_needit_uvcore_lb">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>lbvip2securitytagname</element>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-11 08:04:45</sys_created_on>
-            <sys_id>5a62f8a04fac6b00b6bec4b18110c70d</sys_id>
+            <sys_id>eb9b507adb55001049e99235ca9619c1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>lbVIP2SecurityTagName</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>

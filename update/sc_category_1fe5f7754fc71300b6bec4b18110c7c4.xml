@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sc_category">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
     <sc_category action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Provisioning and management of MSV Servers</description>
@@ -18,7 +17,6 @@
         <parent display_value="Hardware">d258b953c611227a0146101fb1be7c31</parent>
         <roles/>
         <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
-        <show_in_cms>false</show_in_cms>
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-03 06:01:35</sys_created_on>
@@ -36,19 +34,22 @@
     <sys_translated_text action="delete_multiple" query="documentkey=1fe5f7754fc71300b6bec4b18110c7c4"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#fdfdfd</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
         <file_name>homepage_image</file_name>
+        <hash/>
         <image_height>80</image_height>
         <image_width>80</image_width>
         <size_bytes>4309</size_bytes>
         <size_compressed>4332</size_compressed>
+        <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-02 00:23:21</sys_created_on>
         <sys_id>e67bf689db6567001dde0181ca961971</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-02 00:23:21</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-11-27 09:41:21</sys_updated_on>
         <table_name>ZZ_YYsc_category</table_name>
         <table_sys_id>1fe5f7754fc71300b6bec4b18110c7c4</table_sys_id>
     </sys_attachment>
@@ -81,13 +82,16 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#fdfdfd</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
         <file_name>icon</file_name>
+        <hash/>
         <image_height>80</image_height>
         <image_width>80</image_width>
         <size_bytes>4309</size_bytes>
         <size_compressed>4332</size_compressed>
+        <state/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-02 00:23:12</sys_created_on>
         <sys_id>087bbe89db6567001dde0181ca9619fb</sys_id>

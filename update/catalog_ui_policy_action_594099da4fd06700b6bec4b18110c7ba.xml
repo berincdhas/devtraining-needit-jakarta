@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="catalog_ui_policy_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="MSV NSX Load Balancer v2.0">d920151a4fd06700b6bec4b18110c705</catalog_item>
         <catalog_variable>IO:fecd37b94fc71300b6bec4b18110c759</catalog_variable>
+        <cleared>false</cleared>
         <disabled>true</disabled>
         <field/>
         <mandatory>false</mandatory>
+        <order/>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-04 10:28:53</sys_created_on>

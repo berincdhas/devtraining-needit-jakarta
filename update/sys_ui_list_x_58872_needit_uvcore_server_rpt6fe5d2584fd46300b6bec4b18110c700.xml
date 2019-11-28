@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_uvcore_server" version="2" view="RPT6fe5d2584fd46300b6bec4b18110c700">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>actiontaken</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>backuptype</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>billingcode</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -64,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ciimpact</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -79,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ciisvirtual</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -94,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>cimanufacturer</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -109,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ciparenttype</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -124,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ciremoteconsole</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -139,7 +138,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>cisupporttier</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
@@ -154,7 +153,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>subscriptionname</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>10</position>
@@ -169,7 +168,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>hostname_lc</element>
-            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="0fcbf504dbd563001dde0181ca961942">afe59e584fd46300b6bec4b18110c765</list_id>
+            <list_id display_value="x_58872_needit_uvcore_server" element="NULL" name="x_58872_needit_uvcore_server" parent="NULL" relationship="NULL" sys_domain="global" view="cd15183edbd1001049e99235ca96196e">afe59e584fd46300b6bec4b18110c765</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>11</position>
@@ -206,7 +205,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-08-29 10:25:23</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt6fe5d2584fd46300b6bec4b18110c700" name="RPT6fe5d2584fd46300b6bec4b18110c700">0fcbf504dbd563001dde0181ca961942</view>
+            <view display_value="Rpt6fe5d2584fd46300b6bec4b18110c700" name="RPT6fe5d2584fd46300b6bec4b18110c700">cd15183edbd1001049e99235ca96196e</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

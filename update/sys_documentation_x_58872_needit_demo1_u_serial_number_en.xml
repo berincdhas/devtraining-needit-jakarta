@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="u_serial_number" label="Serial number" language="en" table="x_58872_needit_demo1">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_serial_number</element>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-07-09 09:10:59</sys_created_on>
-            <sys_id>94db5bf34f831300b6bec4b18110c763</sys_id>
+            <sys_id>839b507adb55001049e99235ca96193c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Serial number</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>

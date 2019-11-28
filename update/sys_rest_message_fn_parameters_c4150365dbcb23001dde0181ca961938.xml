@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_rest_message_fn_parameters">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
     <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
         <name>CustomProperty8</name>
         <rest_message_function display_value="uvCore_POST_Deploy_Physical">0184cb25dbcb23001dde0181ca9619e1</rest_message_function>
